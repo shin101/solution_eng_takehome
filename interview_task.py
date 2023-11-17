@@ -169,84 +169,84 @@ class Item():
 
 class TestBundleGenerator():
 
-    def generate_items(self, jsonl_file_path):
-        # merge two files
-        file1_path = pd.read_csv('./prices.csv', encoding = "ISO-8859-1")
-        file2_path = pd.read_csv('./leadtime.csv', encoding = "ISO-8859-1")
-        merged_df = pd.merge(file1_path, file2_path, on='Item Number', how='inner')
-        merged_df.to_csv('merged_data.csv', index=False)
+    def generate_items(self):
 
-        # items = []
-        # with open(csv_file_path, 'r', encoding = "ISO-8859-1") as csv_file, open(jsonl_file_path, 'w') as jsonl_file:
-        #     reader = csv.DictReader(csv_file)
+        items = []
+        jsonl_file_path = 'output.jsonl'
 
-        #     # skip rows for prices sheet if certain conditions are met 
-        #     exclusion_keywords = ["Adjustment","Charge","Certificate", "Description"]
+        # Open lead time file
+        # Build item number map 
+            # Item Number: Required Date
 
+        # Open prices file
+        # Parse each row 
 
-        #     try:
-        #         for idx, row in enumerate(reader):
-        #             row = {key: value.strip() for key, value in row.items()}
+        file1 = './prices.csv'
+        file2 = './leadtime.csv'
+        
+        with open(file1, 'r', encoding = "ISO-8859-1") as prices_file, open(jsonl_file_path, 'w') as jsonl_file:
+            reader = csv.DictReader(prices_file)
+            exclusion_keywords = ["Adjustment","Charge","Certificate", "Description"]
 
-        #             # Filter
-        #             if csv_file_path == "./prices.csv" :
-        #                 if any(keyword in row["Description Line 1"] for keyword in exclusion_keywords) or row["Brand Name"] == "":
-        #                     continue
+            try:
+                for row in reader:
 
-        #             key = ItemKey()
-        #             item = Item()
+                    row = {key: value.strip() if isinstance(value ,str) else value for key, value in row.items()}
+                    items = []
+
+                    if any(keyword in row["Description Line 1"] for keyword in exclusion_keywords) or row["Brand Name"] == "":
+                        continue
+
+                    key = ItemKey()
+                    item = Item()
+                        
+
+                    item.key = key.__dict__
+
+                    item.display_name = row["Description Line 1"].replace("?","").replace("�","")
+                    item.name = row["Description Line 1"].replace("?","").replace("�","")
+                    item.is_active = True
+                    item.min_unit_size = 1.0
+                    item.max_unit_size = 1.0
+                    item.show_by_default =  False if row["Brand Name"] == "Allez" and any(letter in row["Item Number"] for letter in ["G","P","W","F","O","U","P","A","N","R"]) else True
+                    item.unit_count = row["Item Avg. Weight"] if row["Priced by Weight"] == "Y" else 1.0
+                    item.base_unit_of_measure = PackUnit.POUND if row["Priced by Weight"] == "Y" else None
+                    item.category = row["Class Name"]
+                    item.code = row["Item Number"]
+
+                    temp = []
+
+                    if row["Description Line 1"][-1] == "*":
+                        temp.append("Call your sales rep to special order" )
+                    if row["Brand Name"] != "": 
+                        temp.append(row["Brand Name"])
+                    if row["Pack Size"] != "": 
+                        temp.append(row["Pack Size"])
+                    if row["Priced by Weight"][-1] == "Y":
+                        temp.append("Average Weight" )
                     
-
-        #             item.key = key.__dict__
-        #             # item.display_name = ''.join([char=='@@@' for char in row["Description Line 1"] if char =="?"])
-
-        #             # for char in  row["Description Line 1"] if char == "?" then char= "@@@"
-        #             item.display_name = row["Description Line 1"] 
-        #             item.name = row["Description Line 1"]
-        #             item.is_active = True
-        #             item.min_unit_size = 1.0
-        #             item.max_unit_size = 1.0
-        #             item.show_by_default =  False if row["Brand Name"] == "Allez" and any(letter in row["Item Number"] for letter in ["G","P","W","F","O","U","P","A","N","R"]) else True
-        #             item.unit_count = row["Item Avg. Weight"] if row["Priced by Weight"] == "Y" else 1.0
-        #             item.base_unit_of_measure = PackUnit.POUND if row["Priced by Weight"] == "Y" else None
-        #             item.category = row["Class Name"]
-        #             item.code = row["Item Number"]
-
-        #             temp = []
-
-        #             if row["Description Line 1"][-1] == "*":
-        #                 temp.append("Call your sales rep to special order" )
-        #             if row["Brand Name"] != "": 
-        #                 temp.append(row["Brand Name"])
-        #             if row["Pack Size"] != "": 
-        #                 temp.append(row["Pack Size"])
-        #             if row["Priced by Weight"][-1] == "Y":
-        #                 temp.append("Average Weight" )
-                    
-        #             if len(temp) == 1 :
-        #                 item.description = temp[0]
-        #             else:
-        #                 item.description = " | ".join(temp)
+                    if len(temp) == 1 :
+                        item.description = temp[0]
+                    else:
+                        item.description = " | ".join(temp)
 
 
-        #             item.integration_id = row["Item Number"]
+                    item.integration_id = row["Item Number"]
         #             # item.lead_time_days = row["Description Line 1"]
         #             item.unit_of_measure = row["Unit of Measure"]
         #             item.metadata = ItemMetadataConfiguration().__dict__
-                
-        #             items.append(item)
- 
-        #             jsonl_file.write(json.dumps(item.__dict__) + '\n')
 
-
-        #     except UnicodeDecodeError as e:
-        #         print(f"Error decoding UTF-8 at line {idx}:")
-        #         print(row)  
-        #         raise e
-
-        # return items
     
+                    items.append(item)
+
+                    jsonl_file.write(json.dumps(item.__dict__) + '\n')
+
+
+            except UnicodeDecodeError as e:
+                print(row)  
+                raise e
+
+ 
 if __name__ == "__main__":
     generator = TestBundleGenerator()
-    # file_path = './leadtime.csv'
-    generator.generate_items('output.jsonl')
+    generator.generate_items()
