@@ -1,7 +1,7 @@
 import csv
 import json
 from typing import Optional, Any
-import pandas as pd
+from datetime import datetime, timedelta
 
 class PackUnit():
     BAG = "BAG"
@@ -174,25 +174,32 @@ class TestBundleGenerator():
         items = []
         jsonl_file_path = 'output.jsonl'
 
-        # Open lead time file
-        # Build item number map 
-            # Item Number: Required Date
-
-        # Open prices file
-        # Parse each row 
 
         file1 = './prices.csv'
         file2 = './leadtime.csv'
         
-        with open(file1, 'r', encoding = "ISO-8859-1") as prices_file, open(jsonl_file_path, 'w') as jsonl_file:
+        with open(file1, 'r', encoding = "ISO-8859-1") as prices_file, open(file2, 'r', encoding = "ISO-8859-1") as leadtime_file, open(jsonl_file_path, 'w') as jsonl_file:
             reader = csv.DictReader(prices_file)
+            leadtime_reader = csv.DictReader(leadtime_file)
             exclusion_keywords = ["Adjustment","Charge","Certificate", "Description"]
+            item_number_to_on_hand_quantity_map = {}
+            item_number_to_required_date_map = {}
+            items = [] 
+
+
+            for row in reader:
+                item_number_to_on_hand_quantity_map[row["Item Number"].strip()] = row["On Hand Quantity".strip()]
+            
+            for row in leadtime_reader:
+                item_number_to_required_date_map[row["Item Number"].strip()] = row["Required Date".strip()]
+
 
             try:
                 for row in reader:
-
-                    row = {key: value.strip() if isinstance(value ,str) else value for key, value in row.items()}
-                    items = []
+                    row = {
+                        key: value.strip() if isinstance(value ,str) else value for key, value in row.items()
+                    }
+                    item_number_to_on_hand_quantity_map[row["Item Number"]] = row["On Hand Quantity"]
 
                     if any(keyword in row["Description Line 1"] for keyword in exclusion_keywords) or row["Brand Name"] == "":
                         continue
@@ -213,9 +220,11 @@ class TestBundleGenerator():
                     item.base_unit_of_measure = PackUnit.POUND if row["Priced by Weight"] == "Y" else None
                     item.category = row["Class Name"]
                     item.code = row["Item Number"]
+                    
+
+                    # Logic for description 
 
                     temp = []
-
                     if row["Description Line 1"][-1] == "*":
                         temp.append("Call your sales rep to special order" )
                     if row["Brand Name"] != "": 
@@ -230,9 +239,44 @@ class TestBundleGenerator():
                     else:
                         item.description = " | ".join(temp)
 
-
                     item.integration_id = row["Item Number"]
-        #             # item.lead_time_days = row["Description Line 1"]
+
+                    # Logic for lead_time_days
+
+                    if int(row["On Hand Quantity"]) > 0:
+                        item.lead_time_days = None
+
+                    item1 = row["Item Number"]
+                    print(item1["On Hand Quantity"])
+                    filter_letters = ["P", "S", "G"]
+
+                    if row["Item Number"][-1] in filter_letters:
+                        item2 = (row["Item Number"].replace("P",""))
+                    else:
+                        item2 = item1 + "P"
+
+                    if row["On Hand Quantity"] > 0 or item_number_to_on_hand_quantity_map[item2] > 0:
+                        item.lead_time_days = None
+                    if row["On Hand Quantity"] <= 0 and item_number_to_on_hand_quantity_map[item2] <= 0 :
+                        if item1 or item2 in leadtime_reader:
+                            required_date_str = item_number_to_required_date_map[row["Item Number"]] 
+                            required_date = datetime.strptime(required_date_str, '%m/%d/%y')
+
+                            today = datetime.now().date()
+                            lead_time = (required_date - today).days + 1
+                            item.lead_time_days = lead_time
+                        else:
+                            item.lead_time_days = 14
+
+        
+
+
+                    
+
+
+                    # item.lead_time_days = row["Description Line 1"]
+
+
         #             item.unit_of_measure = row["Unit of Measure"]
         #             item.metadata = ItemMetadataConfiguration().__dict__
 
