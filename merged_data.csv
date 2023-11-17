@@ -1,0 +1,662 @@
+Item Number,Level 1,Level 2,Level 3,Level 4,Level 5,Description Line 1_x,Brand Name,Pack Size,Unit of Measure_x,Priced by Weight,Description Line 2,Description Line 3,Class Name,Special Order,Item Image,On Hand Quantity_x,Item Avg. Weight,Due Date,Unit of Measure_y,Description Line 1_y,On Hand Quantity_y,Quantity Ordered,Open Balance,Expected Date
+00003,22.0,0.0,0.0,0.0,0.0,Handling / Packaging Charge,,,EACH,N,,,,N,,0,0.0,/  /,EACH,Handling / Packaging Charge,0,1.0,1.0,07/31/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/24/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/26/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,08/07/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/31/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/25/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/26/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/31/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/31/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,2.0,2.0,08/07/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/28/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/26/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/31/23
+00007,5.0,0.0,0.0,0.0,0.0,Freight / Fuel Charges,,,EACH,N,,,,N,,0,0.0,07/26/23,EACH,Freight / Fuel Charges,0,1.0,1.0,07/26/23
+00060,5.35,0.0,0.0,5.0,4.4,Parmesan Block For Shredding,Potenza,40lb,CASE,Y,,,CHEESE ITALY,N,,0,40.0,07/24/23,CASE,Parmesan Block For Shredding,2,6.0,6.0,07/31/23
+00060,5.35,0.0,0.0,5.0,4.4,Parmesan Block For Shredding,Potenza,40lb,CASE,Y,,,CHEESE ITALY,N,,0,40.0,07/24/23,CASE,Parmesan Block For Shredding,2,4.0,4.0,07/31/23
+10064,44.0,44.0,43.4,41.1,36.25,Rice Jasmine 25lb,Ambrosia,25lb,BAG,N,,,RICE,N,,9,0.0,/  /,BAG,Rice Jasmine 25lb,7,10.0,10.0,07/31/23
+10088,82.65,81.5,80.35,77.15,68.1,Dumpling Edamame,Chef One,3/50ct,CASE,N,,,HORS D'OEUVRES,N,,0,0.0,07/26/23,CASE,Dumpling Edamame,0,10.0,10.0,07/26/23
+10195,26.7,26.3,25.95,24.9,23.35,Sir Galahad Flour,King Arthur Flo,50lb,CASE,N,,,FLOUR,N,,56,0.0,07/24/23,CASE,Sir Galahad Flour,69,550.0,550.0,07/28/23
+10198,26.8,26.4,26.05,25.0,22.05,Special Patent Flour,King Arthur Flo,50lb,CASE,N,,,FLOUR,N,,63,0.0,07/24/23,CASE,Special Patent Flour,65,300.0,300.0,07/28/23
+10200,95.19,85.22,69.3,64.95,61.15,Namur Semi-Sweet Choc Couv 55%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,65,0.0,/  /,CASE,Namur Semi-Sweet Choc Couv 55%,65,810.0,810.0,/  /
+10200CA,77.6,72.75,80.85,77.6,68.5,Namur Semi-Sweet Choc Couv 55%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,0,0.0,/  /,CASE,Namur Semi-Sweet Choc Couv 55%,0,90.0,90.0,/  /
+10200PA,71.15,66.7,74.1,71.15,62.8,Namur Semi-Sweet Choc Couv 55%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,360,0.0,/  /,CASE,Namur Semi-Sweet Choc Couv 55%,360,720.0,720.0,/  /
+10200PA,71.15,66.7,74.1,71.15,62.8,Namur Semi-Sweet Choc Couv 55%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,360,0.0,/  /,CASE,Namur Semi-Sweet Choc Couv 55%,360,180.0,180.0,/  /
+10200PA,71.15,66.7,74.1,71.15,62.8,Namur Semi-Sweet Choc Couv 55%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,360,0.0,/  /,CASE,Namur Semi-Sweet Choc Couv 55%,360,720.0,720.0,/  /
+10200PA,71.15,66.7,74.1,71.15,62.8,Namur Semi-Sweet Choc Couv 55%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,360,0.0,/  /,CASE,Namur Semi-Sweet Choc Couv 55%,360,720.0,720.0,/  /
+10200PA,71.15,66.7,74.1,71.15,62.8,Namur Semi-Sweet Choc Couv 55%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,360,0.0,/  /,CASE,Namur Semi-Sweet Choc Couv 55%,360,270.0,270.0,/  /
+10200PAK,71.5,70.5,69.55,66.75,55.65,Namur Semi-Sweet Kosher Pareve 55%,Allez,10 kg,CASE,N,,,CHOC COUVERTURE,Y,,0,0.0,/  /,CASE,Namur Semi-Sweet Kosher Pareve 55%,0,540.0,540.0,/  /
+10201,95.84,81.55,75.75,70.7,62.4,Perron Dark Choc Couv 60%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,446,0.0,/  /,CASE,Perron Dark Choc Couv 60%,446,270.0,270.0,/  /
+10201CA,79.7,78.6,77.5,74.4,65.65,Perron Dark Choc Couv 60%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,360,0.0,/  /,CASE,Perron Dark Choc Couv 60%,0,360.0,360.0,/  /
+10201PA,72.55,68.0,75.6,72.55,64.0,Perron Dark Choc Couv 60%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,855,0.0,/  /,CASE,Perron Dark Choc Couv 60%,855,540.0,540.0,/  /
+10201PA,72.55,68.0,75.6,72.55,64.0,Perron Dark Choc Couv 60%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,855,0.0,/  /,CASE,Perron Dark Choc Couv 60%,855,270.0,270.0,/  /
+10205,114.7,101.23,88.25,76.5,67.5,Blanche White Chocolate Chips,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,55,0.0,/  /,CASE,Blanche White Chocolate Chips,55,810.0,810.0,/  /
+10205CA,0.0,0.0,0.0,0.0,0.0,Blanche White Chocolate,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,0,0.0,/  /,CASE,Blanche White Chocolate,0,90.0,90.0,/  /
+10205PA,72.65,68.1,75.65,72.65,64.1,Blanche White Chocolate,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,271,0.0,/  /,CASE,Blanche White Chocolate,271,630.0,630.0,/  /
+10205PA,72.65,68.1,75.65,72.65,64.1,Blanche White Chocolate,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,271,0.0,/  /,CASE,Blanche White Chocolate,271,180.0,180.0,/  /
+10205PA,72.65,68.1,75.65,72.65,64.1,Blanche White Chocolate,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,271,0.0,/  /,CASE,Blanche White Chocolate,271,630.0,630.0,/  /
+10205PA,72.65,68.1,75.65,72.65,64.1,Blanche White Chocolate,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,271,0.0,/  /,CASE,Blanche White Chocolate,271,540.0,540.0,/  /
+10205PA,72.65,68.1,75.65,72.65,64.1,Blanche White Chocolate,Allez,10kg,CASE,N,,,CHOC COUVERTURE,N,,271,0.0,/  /,CASE,Blanche White Chocolate,271,360.0,360.0,/  /
+10206CA,77.65,72.8,80.9,77.65,68.55,Brogne Milk Chocolate Couv 35%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,1620,0.0,/  /,CASE,Brogne Milk Chocolate Couv 35%,180,1170.0,1170.0,/  /
+10206CA,77.65,72.8,80.9,77.65,68.55,Brogne Milk Chocolate Couv 35%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,1620,0.0,/  /,CASE,Brogne 35% Milk Chocolate Couv,180,1440.0,1440.0,/  /
+10206PA,72.35,67.8,75.35,72.35,63.8,Brogne Milk Chocolate Couv 35%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,1342,0.0,/  /,CASE,Brogne Milk Chocolate Couv 35%,1342,630.0,630.0,/  /
+10206PA,72.35,67.8,75.35,72.35,63.8,Brogne Milk Chocolate Couv 35%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,1342,0.0,/  /,CASE,Brogne Milk Chocolate Couv 35%,1342,810.0,810.0,/  /
+10207CA,84.1,82.95,81.75,78.5,69.25,Dinant Dark Chocolate Couv 70%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,0,0.0,/  /,CASE,Dinant Dark Chocolate Couv 70%,0,540.0,540.0,/  /
+10207PA,74.9,70.25,78.05,74.9,66.1,Dinant Dark Chocolate Couv 70%,Allez,10kg,CASE,N,,,CHOC COUVERTURE,Y,,450,0.0,/  /,CASE,Dinant Dark Chocolate Couv 70%,450,540.0,540.0,/  /
+10208,116.0,98.15,90.6,78.5,69.3,Cocoa Liquor 100%,Allez,10kg,CASE,N,LOT CODE:,,CHOC COUVERTURE,N,,46,0.0,/  /,CASE,Cocoa Liquor 100%,46,180.0,180.0,/  /
+10208W,79.1,74.15,82.4,79.1,69.8,Cocoa Liquor 100%,Allez,10 kg,CASE,N,,,CHOC COUVERTURE,Y,,90,0.0,/  /,CASE,Cocoa Liquor 100%,90,270.0,270.0,/  /
+10252,5.3,5.25,5.15,4.95,4.4,Mother Pearl Caviar Spoons*,Sturia Caviar,1 spoon,EACH,N,,,NON-FOOD ITEMS,Y,,35,0.0,07/20/23,EACH,Mother Pearl Caviar Spoons*,35,47.0,47.0,07/27/23
+10252,5.3,5.25,5.15,4.95,4.4,Mother Pearl Caviar Spoons*,Sturia Caviar,1 spoon,EACH,N,,,NON-FOOD ITEMS,Y,,35,0.0,07/20/23,EACH,Mother Pearl Caviar Spoons*,35,60.0,60.0,09/01/23
+10676,13.4,12.45,12.1,11.65,10.25,Cheddar Powder White SM,Potenza,16oz,PC.,N,,,SPICES,N,,0,0.0,07/26/23,PC.,Cheddar Powder White SM,0,3.0,3.0,07/26/23
+10995,80.35,79.2,78.1,77.0,77.0,Olives Cerignola Black,Frutto D'Italia,2/2.5kg,CASE,N,,,OLIVES,N,,1,0.0,07/24/23,CASE,Olives Cerignola Black,1,4.0,4.0,07/31/23
+11005,67.9,0.0,0.0,63.35,55.9,Hoisin Sauce,Lee Kum Kee,6/5lb,CASE,N,,,ASIAN SAUCES,N,,0,30.0,/  /,CASE,Hoisin Sauce,0,4.0,4.0,08/01/23
+11009,111.15,111.15,100.35,96.35,85.0,Korean Rice Cakes*,Pacific,12/2lb,CASE,N,,,ASIAN FOODS,Y,,0,0.0,07/25/23,CASE,Korean Rice Cakes*,0,2.0,2.0,07/25/23
+11012,73.5,72.45,71.45,68.6,60.5,Dijon Mustard Smooth,Beaufor,2/11.3lb,CASE,N,,,MUSTARD,N,,4,0.0,/  /,CASE,Dijon Mustard Smooth,5,5.0,5.0,08/03/23
+11013,151.55,151.55,140.75,131.35,115.9,Tapioca Pearls,Pacific,50/14oz,CASE,N,,,PASTRY INGRDNTS,N,,3,0.0,/  /,CASE,Tapioca Pearls,4,2.0,2.0,08/01/23
+11015,416.3,410.45,404.75,388.55,373.6,Cocoa Powder,Valrhona,6/3kg,CASE,N,0159,,CHOC POWDERS,N,,7,0.0,/  /,CASE,Cocoa Powder,7,3.0,3.0,07/31/23
+11036,18.3,17.75,17.5,16.8,14.85,Almond Extract 12.7oz,Boyajian,12.7oz,PC.,N,,,EXTRACTS,N,,0,0.0,/  /,PC.,Almond Extract 12.7oz,0,36.0,36.0,08/01/23
+11046,66.85,65.95,65.0,62.4,55.05,Frescatrano Olives Pitted,Divina,4/2lb,CASE,N,D0970,,OLIVES,N,,3,0.0,/  /,CASE,Frescatrano Olives Pitted,3,2.0,2.0,08/03/23
+11049,50.55,49.85,49.15,47.15,41.6,Sour Cherry Spread,Divina,3/3.5lb,CASE,N,,,PRESERVES,N,,0,0.0,/  /,CASE,Sour Cherry Spread,0,2.0,2.0,08/03/23
+11051,34.3,33.8,33.35,32.0,28.25,Dijon Mustard Smooth 12/7.05oz,Beaufor,12/7.05oz,CASE,N,31007,,MUSTARD,N,,2,0.0,/  /,CASE,Dijon Mustard Smooth 12/7.05oz,2,2.0,2.0,08/03/23
+11072,32.4,31.95,31.5,30.25,26.7,Organic Pitted Kalamata 6/6oz,Divina,6/6oz,CASE,N,,,OLIVES,N,,1,0.0,/  /,CASE,Organic Pitted Kalamata 6/6oz,1,3.0,3.0,08/03/23
+11114,0.0,0.0,0.0,0.0,0.0,Garret CASE Description,,,CASE,N,,,,N,,-4,0.0,/  /,CASE,Garret CASE Description,-4,1.0,1.0,07/27/23
+11118,0.0,0.0,0.0,0.0,0.0,Stacy CASE Description,,,CASE,N,,,,N,,1,0.0,07/26/23,CASE,Stacy CASE Description,1,1.0,1.0,07/26/23
+11118,0.0,0.0,0.0,0.0,0.0,Stacy CASE Description,,,CASE,N,,,,N,,1,0.0,07/26/23,CASE,Stacy CASE Description,1,1.0,1.0,07/26/23
+11119,0.0,0.0,0.0,0.0,0.0,Patrick CASE Description,,,CASE,N,,,,N,,0,0.0,07/26/23,CASE,Patrick CASE Description,0,1.0,1.0,07/26/23
+11200,65.15,64.25,63.35,60.8,53.65,Pappardelle All'Uovo,Sogno Toscano,8/500g,CASE,N,205,,PASTA DRIED,N,,4,0.0,07/26/23,CASE,Pappardelle All'Uovo,5,10.0,10.0,07/31/23
+11205,64.4,63.5,62.6,60.1,53.0,Gigli Toscani Organic,Sogno Toscano,8/500g,CASE,N,4000.36,,PASTA DRIED,N,,2,0.0,07/26/23,CASE,Gigli Toscani Organic,3,1.0,1.0,07/31/23
+11209,65.15,64.25,63.35,60.8,53.65,Spaghetti Alla Chitarra Organic,Sogno Toscano,8/500g,CASE,N,4000.20,,PASTA DRIED,N,,2,0.0,07/26/23,CASE,Spaghetti Alla Chitarra Organic,3,3.0,3.0,07/31/23
+11216,62.4,61.5,60.65,58.2,51.4,Rigatoni Bronze Die*,Sogno Toscano,2/10lb,CASE,N,5000.26,,PASTA DRIED,Y,,0,0.0,07/26/23,CASE,Rigatoni Bronze Die*,0,4.0,4.0,07/31/23
+11218,125.75,123.95,122.25,117.35,103.55,Tomatoes Baby Red Confit,Sogno Toscano,6/770g,CASE,N,6000.16,,TOMATOES,Y,,2,0.0,07/26/23,CASE,Tomatoes Baby Red Confit,2,14.0,14.0,07/31/23
+11223,351.4,346.45,341.6,327.95,289.4,Olive Oil Extra Virgin Fattoria,Sogno Toscano,12/750mL,CASE,N,1000.54,,OILS OLIVE,N,,0,0.0,07/26/23,CASE,Olive Oil Extra Virgin Fattoria,0,2.0,2.0,07/31/23
+11227,71.45,70.45,69.45,66.7,58.85,Cannellini Beans Canned,Sogno Toscano,6/2.5kg,CASE,N,9000.14,,BEANS,N,,2,0.0,07/26/23,CASE,Cannellini Beans Canned,2,1.0,1.0,07/31/23
+11232,178.0,175.5,173.1,152.5,146.6,EVOO Jewel of Tuscany 35lb,Sogno Toscano,35lb,JUG,N,,,OILS OLIVE,N,,6,0.0,07/26/23,JUG,EVOO Jewel of Tuscany 35lb,6,2.0,2.0,07/31/23
+11250,57.4,56.55,55.8,53.55,47.25,Vinegar Balsamic Di Modena,Sogno Toscano,2/5L,CASE,N,,,VINEGARS,N,,0,0.0,07/26/23,CASE,Vinegar Balsamic Di Modena,0,7.0,7.0,07/31/23
+11251,10.1,9.95,9.8,9.4,8.3,Prosciutto Crudo Italiano,Sogno Toscano,13lb,EACH,Y,,,MEAT ITALIAN,N,,1,13.5,07/26/23,EACH,Prosciutto Crudo Italiano,1,5.0,5.0,07/31/23
+11258,97.9,96.5,95.15,91.35,80.6,Vinegar Balsamic Glaze,Sogno Toscano,12/250mL,CASE,N,,,VINEGARS,Y,,0,0.0,07/26/23,CASE,Vinegar Balsamic Glaze,1,2.0,2.0,07/31/23
+11265,117.0,115.4,113.75,109.2,96.4,Calabrian Peppers Spicy,Sogno Toscano,2/3kg,CASE,N,8000.16,,VEGETABLES,N,,2,0.0,07/26/23,CASE,Calabrian Peppers Spicy,2,5.0,5.0,07/31/23
+11268,160.05,157.8,155.6,149.4,131.8,Olive Oil Super V,Sogno Toscano,6/1gal,CASE,N,1000.24,,OILS BLENDED,N,,6,0.0,07/26/23,CASE,Olive Oil Super V,6,4.0,4.0,07/31/23
+11273,9.3,9.2,9.05,8.7,7.65,Mortadella Pistachios Imported,Sogno Toscano,2/12lb,CASE,Y,,,MEAT ITALIAN,N,,5,19.5,07/26/23,CASE,Mortadella Pistachios Imported,5,3.0,3.0,07/31/23
+11288,111.25,109.65,108.15,103.8,91.6,Olive Oil White Truffle Infused,Sogno Toscano,6/250mL,CASE,N,,,OILS FLAVORED,N,,3,0.0,07/26/23,CASE,Olive Oil White Truffle Infused,3,3.0,3.0,07/31/23
+11304,50.3,49.6,48.9,46.95,41.45,Lady Fingers,Bonomi,10/500gr,CASE,N,,,COOKIES,N,,3,0.0,07/24/23,CASE,Lady Fingers,3,4.0,4.0,07/31/23
+11309,78.45,77.35,76.25,73.2,64.6,Anchovies White,Sogno Toscano,4/1kg,CASE,N,,,FISH MARINATED,N,,8,0.0,07/26/23,CASE,Anchovies White,8,10.0,10.0,07/31/23
+11314,344.3,339.45,334.75,321.35,267.8,Kaluga Royal-250gr*,Petrovich,250gr,TIN,N,,,CAVIAR,Y,,3,0.0,07/24/23,TIN,Kaluga Royal-250gr*,3,40.0,40.0,07/31/23
+13005,44.3,43.7,43.1,41.35,36.5,Harissa Hot Sauce,DEA,12/14oz,CASE,N,,,SAUCES & STOCKS,N,,9,0.0,/  /,CASE,Harissa Hot Sauce,9,1.0,1.0,08/08/23
+13040,49.85,49.15,48.5,46.55,41.05,Calabrian Hot Chile Peppers Chopped,Divina,2/2.1lb,CASE,N,,,VEGETABLES,N,,1,0.0,/  /,CASE,Calabrian Hot Chile Peppers Chopped,2,6.0,6.0,08/03/23
+13045,37.3,36.75,36.25,34.8,30.7,Calabrian Chile Peppers Chopped,Divina,6/10.6oz,CASE,N,,,VEGETABLES,N,,0,0.0,/  /,CASE,Calabrian Chile Peppers Chopped,0,3.0,3.0,08/03/23
+13050,69.4,68.4,67.45,64.75,57.15,Sweet Chili Sauce,Mae Ploy,12/32oz,CASE,N,,,ASIAN SAUCES,N,,1,0.0,/  /,CASE,Sweet Chili Sauce,1,5.0,5.0,07/31/23
+13053,52.65,0.0,0.0,49.15,43.4,Chipotle Peppers Adobo,Ambrosia,24/7oz,CASE,N,45780,,VEGETABLES,N,,1,0.0,/  /,CASE,Chipotle Peppers Adobo,1,1.0,1.0,07/31/23
+13054,92.45,91.15,89.9,86.3,76.15,Hearts of Palm,Ambrosia,12/28oz,CASE,N,,,VEGETABLES,N,,3,0.0,/  /,CASE,Hearts of Palm,3,4.0,4.0,07/31/23
+13057,54.45,54.45,54.45,50.8,76.2,Harissa Paste Tube,DEA,24/4.2oz,CASE,N,,,SAUCES & STOCKS,N,,3,0.0,/  /,CASE,Harissa Paste Tube,3,2.0,2.0,08/08/23
+13058,76.45,76.45,0.0,71.35,62.95,Chutney Major Grey Mango,Roland,12/18oz,CASE,N,,,PRESERVES,N,,5,0.0,/  /,CASE,Chutney Major Grey Mango,5,1.0,1.0,07/31/23
+13062,54.0,54.0,52.5,50.4,44.5,Pepperoncini Sliced 4/1gal*,Ambrosia,4/1gal,CASE,N,,,VEGETABLES,Y,,0,0.0,/  /,CASE,Pepperoncini Sliced 4/1gal*,0,20.0,20.0,07/31/23
+13063,109.1,107.55,106.05,101.8,89.85,Dijon Mustard Traditional,Esprit De Paris,4/9.5lb,CASE,N,,,MUSTARD,N,,0,0.0,/  /,CASE,Dijon Mustard Traditional,0,5.0,5.0,07/31/23
+13064,116.75,116.75,113.5,108.95,96.15,Dijon Mustard Grain,Esprit De Paris,4/9.3lb,CASE,N,,,MUSTARD,N,,3,0.0,/  /,CASE,Dijon Mustard Grain,3,1.0,1.0,07/31/23
+13065,123.75,122.0,120.3,115.5,101.9,Capers Non Pareil,Ambrosia,12/32 oz,CASE,N,,,CAPERS,N,,8,0.0,/  /,CASE,Capers Non Pareil,8,4.0,4.0,07/31/23
+13067,52.0,51.3,50.6,48.55,42.85,Pepperoncini,Ambrosia,4/1gal,CASE,N,,,VEGETABLES,N,,0,34.0,/  /,CASE,Pepperoncini,0,8.0,8.0,07/31/23
+13073,37.75,37.75,36.7,35.2,31.1,Mustard Dijon Smooth Retail,Fallot,12/7.4oz,CASE,N,,,MUSTARD,N,,1,0.0,/  /,CASE,Mustard Dijon Smooth Retail,1,1.0,1.0,08/08/23
+13084,145.75,145.75,141.7,136.0,120.0,Peppercorns Green in Brine,Moulin,24/3.5oz,CASE,N,,,PEPPER,N,,1,0.0,/  /,CASE,Peppercorns Green in Brine,1,3.0,3.0,08/08/23
+13088,6.15,6.1,6.0,5.75,5.1,Tasso Ham,House of Smoke,5/2lb,CASE,Y,,,MEAT HAM,N,,4,12.0,/  /,CASE,Tasso Ham,4,14.0,14.0,07/27/23
+14003,131.65,129.8,128.0,122.9,108.45,Beef Jerky 12/4oz,House of Smoke,12/4oz,CASE,N,12/4oz,,MEAT BEEF,N,,1,0.0,/  /,CASE,Beef Jerky 12/4oz,1,2.0,2.0,07/27/23
+14004,131.65,129.8,128.0,122.9,108.45,Buffalo Jerky 12/3oz,House of Smoke,12/3oz,CASE,N,12/3oz,,MEAT BEEF,N,,5,0.0,/  /,CASE,Buffalo Jerky 12/3oz,5,3.0,3.0,07/27/23
+15001,32.85,32.4,31.95,30.7,27.05,Plain Bagels 4oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,97,0.0,/  /,CASE,Plain Bagels 4oz,97,60.0,60.0,08/07/23
+15006,32.85,32.4,31.95,30.7,27.05,Everything Bagels 4oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,47,0.0,/  /,CASE,Everything Bagels 4oz,47,40.0,40.0,07/31/23
+15006,32.85,32.4,31.95,30.7,27.05,Everything Bagels 4oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,47,0.0,/  /,CASE,Everything Bagels 4oz,47,90.0,90.0,08/07/23
+15010,32.3,31.85,31.4,30.15,26.6,Garlic Bagels 4oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,0,0.0,/  /,CASE,Garlic Bagels 4oz,0,10.0,10.0,07/31/23
+15035,221.1,218.0,214.95,206.35,182.1,Butter Sheets Unsalted,Isigny Ste Mere,10/2.2lb,CASE,N,,,DAIRY,N,,42,0.0,07/24/23,CASE,Butter Sheets Unsalted,42,100.0,100.0,07/31/23
+15035,221.1,218.0,214.95,206.35,182.1,Butter Sheets Unsalted,Isigny Ste Mere,10/2.2lb,CASE,N,,,DAIRY,N,,42,0.0,07/24/23,CASE,Butter Sheets Unsalted,42,70.0,70.0,07/31/23
+15052,33.9,33.9,33.0,31.65,27.95,Blueberry Bagels 4.5oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,14,0.0,/  /,CASE,Blueberry Bagels 4.5oz,14,10.0,10.0,07/31/23
+15054,34.8,34.8,33.85,32.5,28.65,French Toast Bagels 4.5oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,5,0.0,/  /,CASE,French Toast Bagels 4.5oz,5,10.0,10.0,07/31/23
+15054,34.8,34.8,33.85,32.5,28.65,French Toast Bagels 4.5oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,5,0.0,/  /,CASE,French Toast Bagels 4.5oz,5,20.0,20.0,08/07/23
+15060,94.5,93.2,91.9,88.2,73.15,Juice Blood Orange 12/1L,Mongibello,12/1L,CASE,N,,,BEVERAGE JUICE,N,,7,0.0,/  /,CASE,Juice Blood Orange 12/1L,7,66.0,66.0,08/08/23
+15063,54.8,50.9,49.5,47.5,41.9,Jalapeno Cheddar Bagels 4.5oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,13,13.0,/  /,CASE,Jalapeno Cheddar Bagels 4.5oz,13,20.0,20.0,07/31/23
+15063,54.8,50.9,49.5,47.5,41.9,Jalapeno Cheddar Bagels 4.5oz,Just Bagels,48ct,CASE,N,,,BAGELS,N,,13,13.0,/  /,CASE,Jalapeno Cheddar Bagels 4.5oz,13,10.0,10.0,08/07/23
+16049,131.45,129.6,127.8,122.7,108.25,Squid Ink,Sogno Toscano,12/180g,CASE,N,,,FISH MARINATED,N,,0,0.0,07/26/23,CASE,Squid Ink,0,1.0,1.0,07/31/23
+16050,74.25,73.2,72.2,69.3,61.15,Tonno Tuna in Oil 24/6oz,Sclafani,24/6oz,CASE,N,,,FISH MARINATED,N,,2,0.0,/  /,CASE,Tonno Tuna in Oil 24/6oz,2,6.0,6.0,08/08/23
+16072,171.45,171.45,166.7,160.0,141.2,Oil EVOO Sicilian 12/500mL,Partanna,12/500mL,CASE,N,,,OILS OLIVE,N,,4,15.0,/  /,CASE,Oil EVOO Sicilian 12/500mL,4,2.0,2.0,07/31/23
+16073,245.75,242.3,238.9,229.35,202.4,Oil EVOO Sicilian 12/1L,Partanna,12/1L,CASE,N,,,OILS OLIVE,N,,3,0.0,/  /,CASE,Oil EVOO Sicilian 12/1L,3,5.0,5.0,07/31/23
+16074,174.0,171.55,169.2,162.4,143.3,Oil EVOO Sicilian 4/3L,Partanna,4/3L,CASE,N,,,OILS OLIVE,N,,0,0.0,/  /,CASE,Oil EVOO Sicilian 4/3L,0,40.0,40.0,07/31/23
+16075,68.5,67.55,66.6,63.95,56.45,Olive Castelvetrano,Partanna,2/2.5kg,CASE,N,,,OLIVES,N,,13,0.0,/  /,CASE,Olive Castelvetrano,13,10.0,10.0,07/31/23
+16077,68.5,67.55,66.6,63.95,56.45,Olive Castelvetrano Pitted,Partanna,2/2.3kg,CASE,N,,,OLIVES,N,,8,0.0,/  /,CASE,Olive Castelvetrano Pitted,8,60.0,60.0,07/31/23
+17001,65.6,64.65,63.75,61.2,54.0,Peppadew Peppers,Peppadew,2/3kg,CASE,N,,,VEGETABLES,N,,3,0.0,/  /,CASE,Peppadew Peppers,3,5.0,5.0,08/03/23
+18000,55.4,55.4,54.65,0.0,45.65,Champagne Vinegar 2/5L,Beaufor,2/5L,CASE,N,,,VINEGARS,N,,10,0.0,/  /,CASE,Champagne Vinegar 2/5L,10,24.0,24.0,08/03/23
+18003,44.5,44.5,43.9,41.55,36.65,Red Wine Vinegar Aged 2/5L,Beaufor,2/5L,CASE,N,,,VINEGARS,N,,15,0.0,/  /,CASE,Red Wine Vinegar Aged 2/5L,15,16.0,16.0,08/03/23
+18004,47.65,47.65,47.0,44.5,39.25,Apple Cider Vinegar 2/5L,Beaufor,2/5L,CASE,N,32925,,VINEGARS,N,,11,0.0,/  /,CASE,Apple Cider Vinegar 2/5L,11,10.0,10.0,08/03/23
+18023,43.8,43.15,42.5,41.9,41.25,Oat Flour Organic*,Golden Organics,25lb,CASE,N,,,FLOUR,Y,,0,0.0,07/26/23,CASE,Oat Flour Organic*,0,2.0,2.0,07/26/23
+18025,69.8,68.75,67.7,66.7,65.75,Spelt Flour,Golden Organics,25lb,BAG,N,,,FLOUR,N,,0,0.0,07/26/23,BAG,Spelt Flour,0,3.0,3.0,07/26/23
+18240,76.3,75.25,74.2,71.2,62.85,Spaghetti GF,Sogno Toscano,10/500g,CASE,N,4000.16,,PASTA DRIED,N,,0,0.0,07/26/23,CASE,Spaghetti GF,1,1.0,1.0,07/31/23
+19803,174.75,172.3,169.9,163.1,143.9,La Belle Custom Logo,ChocoButter,588ct,CASE,N,,,CHOCOLATE DECOR,N,,11,0.0,07/24/23,CASE,La Belle Custom Logo,11,24.0,24.0,07/24/23
+20018,171.25,168.85,166.5,159.8,141.0,Tahini Bulk Pail,Soom,40lb,PAIL,N,,,PRESERVES,N,,25,0.0,/  /,PAIL,Tahini Bulk Pail,25,65.0,65.0,08/08/23
+20020,189.8,187.15,184.55,177.15,156.3,Tahini Bulk Pail Organic*,Soom,40lb,PAIL,N,,,PRESERVES,Y,,0,0.0,/  /,PAIL,Tahini Bulk Pail Organic*,0,4.0,4.0,08/08/23
+20046,143.6,141.55,139.6,134.0,118.25,Oil Extra Virgin Olive French,Nicolas Alziari,6/16.9oz,CASE,N,,,OILS OLIVE,N,,1,0.0,/  /,CASE,Oil Extra Virgin Olive French,1,6.0,6.0,08/08/23
+20655,98.45,97.05,95.7,91.9,81.1,Tahini 12/16oz,Soom,12/16oz,CASE,N,,,PRESERVES,N,,11,0.0,/  /,CASE,Tahini 12/16oz,11,5.0,5.0,08/08/23
+22225,0.0,0.0,0.0,0.0,0.0,Gary PC Description,,,PC.,N,,,,N,,2,0.0,07/24/23,PC.,Gary PC Description,2,1.0,1.0,07/24/23
+23001,62.9,62.0,61.15,58.7,48.9,White Peach Puree (Peche Blanche),adamance,4/1kg,CASE,N,41190,,PUREE,N,,19,0.0,/  /,CASE,White Peach Puree (Peche Blanche),19,15.0,15.0,07/31/23
+23003,92.6,91.3,90.05,86.45,72.05,Raspberry Puree (Framboise),adamance,4/1kg,CASE,N,41188,,PUREE,N,,15,0.0,/  /,CASE,Raspberry Puree (Framboise),15,15.0,15.0,07/31/23
+23007,70.9,69.9,68.9,66.15,55.15,Mango Puree (Mangue),adamance,4/1kg,CASE,N,32360,,PUREE,N,,-1,0.0,/  /,CASE,Mango Puree (Mangue),-1,25.0,25.0,07/31/23
+23009,62.9,62.0,61.15,58.7,48.9,Wild Blueberry Puree (Myrtille),adamance,4/1kg,CASE,N,48591,,PUREE,N,,8,0.0,/  /,CASE,Wild Blueberry Puree (Myrtille),8,10.0,10.0,07/31/23
+23010,74.3,73.25,72.25,69.35,57.8,Passion Fruit Puree,adamance,4/1kg,CASE,N,48102,,PUREE,N,,10,0.0,/  /,CASE,Passion Fruit Puree,11,20.0,20.0,07/31/23
+23011,66.05,65.1,64.2,61.65,51.35,Strawberry Puree (Fraise),adamance,4/1kg,CASE,N,48156,,PUREE,N,,17,0.0,/  /,CASE,Strawberry Puree (Fraise),17,15.0,15.0,07/31/23
+24156,55.9,55.15,54.35,52.2,43.5,"Tart Shell Round Chocolate 4""",La Folie,40ct,CASE,N,78450,,TART SHELLS,N,,0,0.0,/  /,CASE,"Tart Shell Round Chocolate 4""",0,8.0,8.0,07/31/23
+25034,2.3,2.3,2.25,2.15,1.9,Bulgur Wheat Medium,Giusto's,25lb,CASE,Y,,,GRAINS,N,,3,25.0,/  /,CASE,Bulgur Wheat Medium,3,5.0,5.0,08/10/23
+25035,1.3,1.25,1.25,1.2,1.05,Steel Cut Oats,Giusto's,50lb,CASE,Y,,,GRAINS,N,,3,50.0,/  /,CASE,Steel Cut Oats,3,10.0,10.0,08/10/23
+25036,1.6,1.55,1.55,1.5,1.3,GF Tapioca Flour/Starch 50lb,Giusto's,50lb,CASE,Y,,,FLOUR,N,,17,50.0,/  /,CASE,GF Tapioca Flour/Starch 50lb,17,35.0,35.0,08/10/23
+25037,1.65,1.65,1.6,1.55,1.35,White Rice Flour GF,Giusto's,50lb,CASE,Y,,,FLOUR,N,,2,0.0,/  /,CASE,White Rice Flour GF,2,15.0,15.0,08/10/23
+25039,66.75,65.8,64.9,62.3,54.95,All Purpose Flour GF,Giusto's,25lb,CASE,N,,,FLOUR,N,,12,0.0,/  /,CASE,All Purpose Flour GF,12,10.0,10.0,08/10/23
+25041,49.15,47.75,47.1,45.2,39.9,Snowflake AP Flour Unbleached,Giusto's,50lb,BAG,N,,,FLOUR,N,,8,0.0,/  /,BAG,Snowflake AP Flour Unbleached,8,35.0,35.0,08/10/23
+25042,54.8,52.5,51.75,49.7,43.85,Artisan Malted Bread Flour Unbleach,Giusto's,50lb,BAG,N,,,FLOUR,N,,8,0.0,/  /,BAG,Artisan Malted Bread Flour Unbleach,8,5.0,5.0,08/10/23
+25055,83.65,82.45,81.3,78.05,68.9,Gluten Free Multi Purpose Flour,Cup4Cup,25lb,CASE,N,,,FLOUR,N,,16,0.0,/  /,CASE,Gluten Free Multi Purpose Flour,16,75.0,75.0,08/07/23
+25058,83.65,82.45,81.3,78.05,68.9,Multi Purpose Flour Dairy Free GF,Cup4Cup,25lb,CASE,N,,,FLOUR,N,,-1,0.0,/  /,CASE,Multi Purpose Flour Dairy Free GF,-2,25.0,25.0,08/07/23
+26001,62.6,61.7,60.85,58.4,51.55,Cranberry Hazelnut Crisps 12/5.3oz,Raincoast Crisp,12/5.3oz,CASE,N,71075,,CRACKERS,N,,2,0.0,07/24/23,CASE,Cranberry Hazelnut Crisps 12/5.3oz,2,25.0,25.0,07/24/23
+26002,62.6,61.7,60.85,58.4,51.55,Rosemary Raisin Pecan Crisp 12/5.3z,Raincoast Crisp,12/5.3oz,CASE,N,71165,,CRACKERS,N,,12,0.0,07/24/23,CASE,Rosemary Raisin Pecan Crisp 12/5.3z,12,10.0,10.0,07/24/23
+26003,62.6,61.7,60.85,58.4,51.55,Fig & Olive Crisps 12/5.3oz,Raincoast Crisp,12/5.3oz,CASE,N,71105,,CRACKERS,N,,6,0.0,07/24/23,CASE,Fig & Olive Crisps 12/5.3oz,6,15.0,15.0,07/24/23
+26004,62.6,61.7,60.85,58.4,51.55,Salty Date & Almond Crisps 12/5.3oz,Raincoast Crisp,12/5.3oz,CASE,N,71195,,CRACKERS,N,,-1,0.0,07/24/23,CASE,Salty Date & Almond Crisps 12/5.3oz,-1,25.0,25.0,07/24/23
+26007,62.6,61.7,60.85,58.4,51.55,GF Rosemary Raisin Crisp 12/5.3oz,Raincoast Crisp,12/5.3oz,CASE,N,71355,Gluten Free Ingredients,CRACKERS,N,,2,0.0,07/24/23,CASE,GF Rosemary Raisin Crisp 12/5.3oz,2,5.0,5.0,07/24/23
+26019,62.6,61.7,60.85,58.4,51.55,GF Salty Date Crisps,Raincoast Crisp,12/5.3oz,CASE,N,71325,Gluten Free Ingredients,CRACKERS,N,,4,0.0,07/24/23,CASE,GF Salty Date Crisps,4,25.0,25.0,07/24/23
+29999,80.95,75.15,73.05,70.15,61.9,Oats Rolled Organic,Potenza,50lb,CASE,N,,,GRAINS,N,,0,0.0,07/26/23,CASE,Oats Rolled Organic,0,4.0,4.0,07/26/23
+30027,44.45,0.0,0.0,41.5,36.6,"Corn Tortilla 6.5"" Nixtamal",Raquelitas,6/120ct,CASE,N,12774,,LATIN FOODS,N,,17,0.0,/  /,CASE,"Corn Tortilla 6.5"" Nixtamal",17,30.0,30.0,07/31/23
+30036,20.0,19.75,19.45,18.7,16.5,"Blue Corn Tortilla 4"" Par Cooked*",Bolder Chip,3/50ct,CASE,N,,,LATIN FOODS,Y,,11,0.0,/  /,CASE,"Blue Corn Tortilla 4"" Par Cooked*",11,55.0,55.0,07/27/23
+30038,38.6,38.05,37.5,36.0,31.8,Blue Corn Tortilla Chips Cooked*,Bolder Chip,6lb,CASE,N,,,LATIN FOODS,Y,,2,0.0,/  /,CASE,Blue Corn Tortilla Chips Cooked*,2,1.0,1.0,07/27/23
+30039,68.95,68.0,67.05,64.35,56.8,"12"" Corn Tortilla Tolteca 6/12",Raquelitas,12/12ct,CASE,N,17360,,LATIN FOODS,N,,6,0.0,/  /,CASE,"12"" Corn Tortilla Tolteca 6/12",6,4.0,4.0,07/31/23
+30901,86.25,85.0,81.35,80.5,71.0,Chocolate Twist Large,Delifrance,70/3oz,CASE,N,S1973,,CROISS & DANISH,N,,4,0.0,/  /,CASE,Chocolate Twist Large,4,8.0,8.0,07/31/23
+30911,136.85,134.95,133.05,127.75,112.7,Croissant Chocolate Large P&B,Delifrance,150/2.8oz,CASE,N,18862,,CROISS & DANISH,N,,3,0.0,/  /,CASE,Croissant Chocolate Large P&B,3,6.0,6.0,07/31/23
+30942,98.4,97.05,95.7,91.85,81.05,Cake Strawberry Layer Strip,Delifrance,4/820g,CASE,N,75639,,CAKES & PIES,N,,0,0.0,/  /,CASE,Cake Strawberry Layer Strip,0,4.0,4.0,07/31/23
+31007,47.85,47.2,46.5,44.65,39.4,Caperberries 6/32oz,Divina,6/32oz,CASE,N,,,CAPERS,N,,2,0.0,/  /,CASE,Caperberries 6/32oz,2,2.0,2.0,08/03/23
+31097,48.9,47.5,46.85,45.0,39.7,Macarons Assorted 2/35ct,LCP,2/35ct,CASE,N,,,PATISSERIES,N,,51,0.0,/  /,CASE,Macarons Assorted 2/35ct,51,50.0,50.0,07/31/23
+32001,50.05,49.35,48.65,46.7,41.2,Brioche Braided Unsliced,LCP,5/21oz,CASE,N,PF739,,BREAD,N,,8,0.0,/  /,CASE,Brioche Braided Unsliced,8,4.0,4.0,07/31/23
+33041,3.25,3.0,2.95,2.8,2.32,Coconut Ribbon Chip Unsweet,Potenza,25lb,BAG,Y,,,FRUITS,N,,3,25.0,07/26/23,BAG,Coconut Ribbon Chip Unsweet,3,2.0,2.0,08/01/23
+33041,3.25,3.0,2.95,2.8,2.32,Coconut Ribbon Chip Unsweet,Potenza,25lb,BAG,Y,,,FRUITS,N,,3,25.0,07/26/23,BAG,Coconut Ribbon Chip Unsweet,3,2.0,2.0,07/26/23
+33054,1.95,1.95,1.75,1.7,1.5,Garbanzo Flour,Giusto's,25lb,CASE,Y,,,FLOUR,N,,6,25.0,/  /,CASE,Garbanzo Flour,4,15.0,15.0,08/10/23
+33073,52.7,52.0,51.25,49.2,43.4,Durum Flour Extra Fancy,Dawn,50lb,BAG,N,,,FLOUR,N,,0,0.0,/  /,BAG,Durum Flour Extra Fancy,0,3.0,3.0,07/27/23
+33093,9.4,9.95,9.8,9.4,8.3,Duck Legs Moulard 12-14oz  FRZ,Rougie,6ct,PC.,Y,,,MEAT POULTRY,N,,66,6.0,/  /,PC.,Duck Legs Moulard 12-14oz  FRZ,66,32.0,32.0,09/11/23
+33099,13.65,13.65,13.3,12.75,11.25,Duck Breast FRZ,Rougie,1lb,PC.,Y,,,MEAT POULTRY,N,,90,1.0,/  /,PC.,Duck Breast FRZ,90,300.0,300.0,09/11/23
+33100,50.1,53.65,52.9,50.1,44.2,Foie Gras Slices IQF 20ct*,Rougie,2lb,PC.,Y,5700007,,MEAT POULTRY,Y,,0,2.2,/  /,PC.,Foie Gras Slices IQF 20ct*,0,12.0,12.0,09/11/23
+34004,51.65,50.95,50.25,48.2,42.55,Olives  Nicoise Pitted,Silano,4kg,PAIL,N,FR406,,OLIVES,N,,4,0.0,/  /,PAIL,Olives  Nicoise Pitted,4,20.0,20.0,07/27/23
+35099,2.1,2.1,2.05,1.95,1.75,Polenta Fine WHITE,Woodland,25lb,CASE,Y,G52D,,FLOUR,N,,1,25.0,/  /,CASE,Polenta Fine WHITE,1,2.0,2.0,07/26/23
+35101,2.8,2.6,2.4,2.25,2.0,Polenta Coarse YELLOW,Woodland,25lb,CASE,Y,G49D,,FLOUR,N,,4,25.0,/  /,CASE,Polenta Coarse YELLOW,4,2.0,2.0,07/26/23
+35215,191.5,209.25,206.35,183.1,172.35,Satilia 62% Dark Choc (Feves),Valrhona,26lb,CASE,N,7346,,CHOC COUVERTURE,N,,14,0.0,/  /,CASE,Satilia 62% Dark Choc (Feves),14,20.0,20.0,07/31/23
+36855,50.0,50.0,48.65,46.7,41.2,Black Vinegar*,Koon Chun,12/16.9oz,CASE,N,,,VINEGARS,Y,,6,0.0,/  /,CASE,Black Vinegar*,6,4.0,4.0,08/01/23
+37134,4.35,4.3,4.25,4.05,3.6,Ricotta Salata,Zerto,4/8lb,CASE,Y,,,CHEESE ITALY,N,,0,30.0,07/24/23,CASE,Ricotta Salata,0,3.0,3.0,07/31/23
+37134,4.35,4.3,4.25,4.05,3.6,Ricotta Salata,Zerto,4/8lb,CASE,Y,,,CHEESE ITALY,N,,0,30.0,07/24/23,CASE,Ricotta Salata,0,1.0,1.0,07/31/23
+37500,11.0,10.85,10.7,10.3,9.1,Gruyere Austrian,Austrian Alps,2/7lb,CASE,Y,,,CHEESE AUSTRIA,N,,2,16.5,07/24/23,CASE,Gruyere Austrian,2,25.0,25.0,07/31/23
+38100,9.8,9.55,9.15,8.6,8.1,Iberico Queso,Albeniz,2/8lb,CASE,Y,,,CHEESE SPAIN,N,,0,13.0,/  /,CASE,Iberico Queso,0,2.0,2.0,07/31/23
+40001,37.65,37.15,36.6,35.15,31.0,Garlic Dill Pickles 6/32oz,Batampte,6/32oz,CASE,N,,,PICKLES,N,,3,0.0,/  /,CASE,Garlic Dill Pickles 6/32oz,3,10.0,10.0,07/31/23
+40002,37.65,37.15,36.6,35.15,31.0,Half Sour Pickles 6/32oz,Batampte,6/32oz,CASE,N,,,PICKLES,N,,-5,0.0,/  /,CASE,Half Sour Pickles 6/32oz,-5,25.0,25.0,07/31/23
+40004,37.4,36.85,36.35,34.9,30.8,Kraut 6/32oz,Batampte,6/32oz,CASE,N,,,RELISH & KRAUT,N,,-2,0.0,/  /,CASE,Kraut 6/32oz,-2,15.0,15.0,07/31/23
+40007,65.3,64.4,63.5,60.95,53.8,Kraut Pail,Batampte,5gal,PAIL,N,,,RELISH & KRAUT,N,,5,0.0,/  /,PAIL,Kraut Pail,5,6.0,6.0,07/31/23
+40013,35.0,34.55,34.05,32.7,28.85,Red Horseradish 12/8oz,Batampte,12/8oz,CASE,N,,,HORSERADISH,N,,3,0.0,/  /,CASE,Red Horseradish 12/8oz,3,5.0,5.0,07/31/23
+40014,35.0,35.0,34.05,32.7,28.85,White Horseradish 12/8oz,Batampte,12/8oz,CASE,N,74301-00400,,HORSERADISH,N,,4,0.0,/  /,CASE,White Horseradish 12/8oz,4,5.0,5.0,07/31/23
+40019,36.5,36.0,35.5,34.1,30.1,Deli Mustard Squeeze Bottle 12/12oz,Batampte,12/12oz,CASE,N,,,MUSTARD,N,,5,0.0,/  /,CASE,Deli Mustard Squeeze Bottle 12/12oz,5,10.0,10.0,07/31/23
+40023,57.45,56.65,55.85,53.6,47.3,Half Sour Pickles Small,Batampte,5gal,PAIL,N,,,PICKLES,N,,14,0.0,/  /,PAIL,Half Sour Pickles Small,14,12.0,12.0,07/31/23
+40024,57.45,56.65,55.85,53.6,44.7,Garlic Dill Pickles Small,Batampte,5gal,PAIL,N,,,PICKLES,N,,12,0.0,/  /,PAIL,Garlic Dill Pickles Small,12,6.0,6.0,07/31/23
+40100,14.6,0.0,0.0,13.6,12.0,Guajillo Powder SM,Potenza,16oz,PC.,N,16oz,,SPICES,N,,2,0.0,07/26/23,PC.,Guajillo Powder SM,4,6.0,6.0,07/26/23
+40996,166.75,164.4,162.1,155.65,137.35,Fava Beans Peeled Habas,D'Allasandro,25lb,CASE,N,,,BEANS,N,,3,0.0,/  /,CASE,Fava Beans Peeled Habas,3,5.0,5.0,07/26/23
+41002,10.1,10.1,9.4,8.75,7.75,Mild Chile Threads,D'Allasandro,1.5oz,PC.,N,,,SPICES,N,,1,0.0,/  /,PC.,Mild Chile Threads,1,12.0,12.0,07/26/23
+41005,12.6,11.7,0.0,10.95,9.65,Beet Powder SM,Potenza,19oz,PC.,N,16oz,,SPICES,N,,0,0.0,07/26/23,PC.,Beet Powder SM,0,12.0,12.0,07/26/23
+41009,32.6,30.25,29.45,28.25,24.95,Onion Powder LG,Potenza,96oz,PC.,N,88oz,,SPICES,N,,5,0.0,07/26/23,PC.,Onion Powder LG,5,3.0,3.0,07/26/23
+41012,5.9,5.45,5.1,4.75,4.2,Sesame Seed White SM,Potenza,19oz,PC.,N,22oz,,SPICES,N,,0,0.0,07/26/23,PC.,Sesame Seed White SM,0,6.0,6.0,07/26/23
+41016,19.6,19.6,0.0,16.95,15.0,Peppercorn Pink SM,Potenza,10oz,PC.,N,,,PEPPER,N,,4,0.0,07/26/23,PC.,Peppercorn Pink SM,5,6.0,6.0,07/26/23
+41034,46.0,46.0,42.7,39.85,35.2,Pepper Black Whole LG,Potenza,96oz,PC.,N,,,PEPPER,N,,7,0.0,07/26/23,PC.,Pepper Black Whole LG,9,12.0,12.0,07/26/23
+41036,16.6,16.6,16.15,15.5,13.7,Aleppo Pepper Flakes,D'Allasandro,16oz,PC.,N,,,PEPPER,N,,-1,0.0,/  /,PC.,Aleppo Pepper Flakes,-1,30.0,30.0,07/26/23
+41037,11.6,10.7,9.95,9.3,8.2,Pepper White Ground SM,Potenza,16oz,PC.,N,,,PEPPER,N,,1,0.0,07/26/23,PC.,Pepper White Ground SM,1,3.0,3.0,07/26/23
+41040,43.85,40.5,37.6,35.1,31.0,Pepper Black Rest Grind LG,Potenza,80oz,PC.,N,14 Mesh,,PEPPER,N,,0,0.0,07/26/23,PC.,Pepper Black Rest Grind LG,0,3.0,3.0,07/26/23
+41052,13.9,13.9,12.9,12.05,10.65,Lavender SM,Potenza,4oz,PC.,N,,,SPICES,N,,5,0.0,07/26/23,PC.,Lavender SM,5,6.0,6.0,07/26/23
+41054,20.0,20.0,18.55,17.35,15.3,Oregano Mediterranean LG,Potenza,24oz,PC.,N,1.5lb,,SPICES,N,,5,0.0,07/26/23,PC.,Oregano Mediterranean LG,3,3.0,3.0,07/26/23
+41057,36.8,33.95,31.55,29.45,26.0,Paprika Hungarian LG,Potenza,80oz,PC.,N,5lb,,SPICES,N,,3,0.0,07/26/23,PC.,Paprika Hungarian LG,3,3.0,3.0,07/26/23
+41060,34.75,34.75,0.0,32.4,28.6,Cardamom Ground 16oz,Potenza,16oz,PC.,N,16oz,,SPICES,N,,6,0.0,07/26/23,PC.,Cardamom Ground 16oz,6,6.0,6.0,07/26/23
+41062,20.45,18.85,17.5,16.35,14.45,Peppercorn Tellicherry SM,Potenza,18oz,PC.,N,,,PEPPER,N,,0,0.0,07/26/23,PC.,Peppercorn Tellicherry SM,0,6.0,6.0,07/26/23
+41066,30.5,30.5,28.3,26.45,23.35,Sesame Seed White LG,Potenza,96oz,PC.,N,5lb,,SPICES,N,,0,0.0,07/26/23,PC.,Sesame Seed White LG,0,9.0,9.0,07/26/23
+41067,36.45,33.65,31.25,29.15,25.75,Pepper Cayenne 40K  LG,Potenza,80oz,PC.,N,,,SPICES,N,,3,0.0,07/26/23,PC.,Pepper Cayenne 40K  LG,3,3.0,3.0,07/26/23
+41071,11.05,10.2,9.5,8.85,7.8,Sesame Seed Black SM,Potenza,16oz,PC.,N,22oz,,SPICES,N,,5,0.0,07/26/23,PC.,Sesame Seed Black SM,5,6.0,6.0,07/26/23
+41077,33.8,31.2,29.0,27.05,23.85,Sesame Seed Black LG,Potenza,96oz,PC.,N,,,SPICES,N,,5,0.0,07/26/23,PC.,Sesame Seed Black LG,3,6.0,6.0,07/26/23
+41078,10.6,10.6,9.8,9.15,8.1,Ginger Ground SM,Potenza,16oz,PC.,N,,,SPICES,N,,5,0.0,07/26/23,PC.,Ginger Ground SM,5,6.0,6.0,07/26/23
+41081,7.9,7.35,7.35,6.85,6.05,Bay Leaves Whole LG,Potenza,12oz,PC.,N,8oz,,SPICES,N,,1,0.0,07/26/23,PC.,Bay Leaves Whole LG,1,3.0,3.0,07/26/23
+41086,193.4,178.55,165.8,154.75,136.55,Pepper Black Rest Grind 25lb,Potenza,25lb,CASE,N,,,PEPPER,N,,0,0.0,07/26/23,CASE,Pepper Black Rest Grind 25lb,0,1.0,1.0,07/26/23
+41089,6.95,6.4,5.95,5.55,4.9,Pepper Black Whole SM,Potenza,18oz,PC.,N,18oz,,PEPPER,N,,7,0.0,07/26/23,PC.,Pepper Black Whole SM,7,12.0,12.0,07/26/23
+41092,23.4,0.0,0.0,21.85,19.3,Szechuan Peppercorn SM,D'Allasandro,16oz,PC.,N,,,PEPPER,N,,7,0.0,/  /,PC.,Szechuan Peppercorn SM,7,12.0,12.0,07/26/23
+41094,30.8,28.4,26.4,24.65,21.75,Pepper Crushed Red LG,Potenza,56oz,PC.,N,4lb,,PEPPER,N,,3,0.0,07/26/23,PC.,Pepper Crushed Red LG,3,6.0,6.0,07/26/23
+41095,17.85,17.85,16.55,15.45,13.65,Peppercorn White SM,Potenza,20oz,PC.,N,,,PEPPER,N,,1,0.0,07/26/23,PC.,Peppercorn White SM,1,6.0,6.0,07/26/23
+41098,56.75,56.75,52.7,49.2,43.4,Peppercorn Tellicherry LG,Potenza,96oz,PC.,N,5lb,,PEPPER,N,,0,0.0,07/26/23,PC.,Peppercorn Tellicherry LG,0,6.0,6.0,07/26/23
+41099,5.8,5.35,5.0,4.65,4.1,Chili Powder Light SM,Potenza,18oz,PC.,N,,,SPICES,N,,2,0.0,07/26/23,PC.,Chili Powder Light SM,2,3.0,3.0,07/26/23
+41104,40.55,40.55,37.65,35.15,31.0,Chili Powder Dark LG,Potenza,80oz,PC.,N,,,SPICES,N,,2,0.0,07/26/23,PC.,Chili Powder Dark LG,2,3.0,3.0,07/26/23
+41112,36.45,33.65,31.25,29.15,25.75,Cumin Ground LG,Potenza,80oz,PC.,N,,,SPICES,N,,2,0.0,07/26/23,PC.,Cumin Ground LG,2,6.0,6.0,07/26/23
+41113,31.15,31.15,28.9,27.0,22.5,Dill Weed LG,Potenza,30oz,PC.,N,,,SPICES,N,,1,0.0,07/26/23,PC.,Dill Weed LG,1,3.0,3.0,07/26/23
+41116,30.75,33.1,30.75,28.7,25.3,Garlic Powder LG,Potenza,80oz,PC.,N,88oz,,SPICES,N,,0,0.0,07/26/23,PC.,Garlic Powder LG,1,6.0,6.0,07/26/23
+41126,23.65,0.0,0.0,22.1,19.5,Rosemary Cut & Sifted LG*,Potenza,56oz,PC.,N,,,SPICES,Y,,-1,0.0,07/26/23,PC.,Rosemary Cut & Sifted LG*,-1,1.0,1.0,07/26/23
+41132,52.4,51.65,50.95,48.9,43.15,Balsamic White 2/5L,Ambrosia,2/5L,CASE,N,,,VINEGARS,N,,2,0.0,/  /,CASE,Balsamic White 2/5L,2,2.0,2.0,07/31/23
+41137,4.2,3.9,3.6,3.4,3.0,Celery Seed Whole SM,Potenza,16oz,PC.,N,,,SPICES,N,,2,0.0,07/26/23,PC.,Celery Seed Whole SM,2,6.0,6.0,07/26/23
+41157,9.95,9.95,9.2,8.6,7.6,Herbs De Provence SM,Potenza,9oz,PC.,N,,,SPICES,N,,5,0.0,07/26/23,PC.,Herbs De Provence SM,5,9.0,9.0,07/26/23
+41160,3.4,3.35,3.3,3.2,2.8,Ginger Crystallized Diced,Potenza,44lb,CASE,Y,,,SPICES,N,,2,44.0,07/25/23,CASE,Ginger Crystallized Diced,2,2.0,2.0,08/01/23
+41172,40.65,43.75,40.65,37.95,33.45,Green Cardamom Whole SM,D'Allasandro,10oz,PC.,N,,,SPICES,N,,-2,0.0,07/26/23,PC.,Green Cardamom Whole SM,-2,6.0,6.0,07/26/23
+41187,15.9,15.9,14.8,13.8,12.2,Coriander Whole LG,Potenza,48oz,PC.,N,50oz,,SPICES,N,,1,0.0,07/26/23,PC.,Coriander Whole LG,1,3.0,3.0,07/26/23
+41188,28.9,26.65,24.75,23.1,20.4,Pepper Black Table Grind LG,Potenza,80oz,PC.,N,20 Mesh,,PEPPER,N,,3,0.0,07/26/23,PC.,Pepper Black Table Grind LG,3,3.0,3.0,07/26/23
+41191,22.7,21.1,0.0,19.7,17.4,Ras el Hanout SM,Potenza,16oz,JAR,N,,,SPICES,N,,5,0.0,/  /,JAR,Ras el Hanout SM,5,6.0,6.0,07/26/23
+41192,11.65,10.75,10.0,9.3,8.2,Oregano Mexican LG,Potenza,24oz,PC.,N,,,SPICES,N,,6,0.0,07/26/23,PC.,Oregano Mexican LG,6,3.0,3.0,07/26/23
+41195,2.95,2.75,0.0,2.6,2.3,Flax Seed,Giusto's,50lb,CASE,Y,,,GRAINS,N,,0,50.0,/  /,CASE,Flax Seed,0,5.0,5.0,08/10/23
+41211,37.55,34.9,34.4,32.55,28.75,Chimayo LG*,Potenza,90oz,PC.,N,90oz,,SPICES,Y,,2,0.0,07/26/23,PC.,Chimayo LG*,2,3.0,3.0,07/26/23
+41212,15.35,14.2,13.15,12.3,10.85,Paprika Smoked SM,Potenza,16oz,PC.,N,16oz,,SPICES,N,,5,0.0,07/26/23,PC.,Paprika Smoked SM,5,6.0,6.0,07/26/23
+41241,3.35,0.0,0.0,2.7,2.25,Oregano Mexican SM,Potenza,7oz,PC.,N,,,SPICES,N,,-1,0.0,07/26/23,PC.,Oregano Mexican SM,-1,6.0,6.0,07/26/23
+41261,13.3,12.35,12.0,11.5,12.42,Achiote Paste SM*,D'Allasandro,16oz,PC.,N,,,SPICES,Y,,3,0.0,/  /,PC.,Achiote Paste SM*,3,8.0,8.0,07/26/23
+42014,147.1,145.35,142.05,140.45,138.9,Black Summer Truffles Fresh*,Sabatino,MARKET,PC.,Y,,,MUSH & TRUFFLES,Y,,-2,0.0,/  /,PC.,Black Summer Truffles Fresh*,-1,1.0,1.0,07/28/23
+44023,132.75,130.85,129.05,123.9,103.25,Anchovy Fillets in EVOO-25oz,Scalia,6/25oz,CASE,N,,,FISH MARINATED,N,,0,0.0,/  /,CASE,Anchovy Fillets in EVOO-25oz,0,3.0,3.0,07/27/23
+44054,119.6,117.95,116.3,111.65,98.5,Oil Grapeseed 6/2L,Bonelli,6/2L,CASE,N,,,OILS VEGETABLE,N,,9,0.0,/  /,CASE,Oil Grapeseed 6/2L,9,24.0,24.0,07/31/23
+44055,124.6,122.85,121.15,116.3,102.6,Oil EVOO Sicilian Unfiltered,Paesano,6/1L,CASE,N,,,OILS OLIVE,N,,3,0.0,/  /,CASE,Oil EVOO Sicilian Unfiltered,3,10.0,10.0,07/31/23
+45003,71.45,70.45,69.45,66.7,58.85,Anchovy Tin 24/1.5oz,Scalia,24/1.5oz,CASE,N,,,FISH MARINATED,N,,1,0.0,/  /,CASE,Anchovy Tin 24/1.5oz,2,18.0,18.0,07/27/23
+45005,42.8,42.2,41.6,39.95,35.25,Artichoke Hearts 1/4 Marniated 12oz,Sclafani,12/12oz,CASE,N,,,VEGETABLES,N,,12,0.0,/  /,CASE,Artichoke Hearts 1/4 Marniated 12oz,13,12.0,12.0,08/08/23
+45008,49.75,53.6,49.75,46.45,41.0,Porcini Powder SM,Potenza,14oz,PC.,N,,,MUSH & TRUFFLES,N,,3,0.0,07/26/23,PC.,Porcini Powder SM,3,6.0,6.0,07/26/23
+45012,33.45,33.0,32.5,31.2,27.55,Beans Lupini 12/8oz,Sclafani,12/8oz,CASE,N,,,BEANS,N,,13,0.0,/  /,CASE,Beans Lupini 12/8oz,13,6.0,6.0,08/08/23
+45013,55.3,54.55,53.75,51.6,45.55,Beans Lupini 12/16oz,Sclafani,12/16oz,CASE,N,,,BEANS,N,,10,0.0,/  /,CASE,Beans Lupini 12/16oz,10,6.0,6.0,08/08/23
+45015,2.9,2.9,2.7,2.55,2.25,Lentils French Green,Timeless,25lb,CASE,Y,,,BEANS,N,,2,25.0,/  /,CASE,Lentils French Green,2,8.0,8.0,08/15/23
+45016,30.9,30.45,30.0,28.8,25.45,Bread Crumbs,Sclafani,12/18oz,CASE,N,,,BREAD,N,,1,0.0,/  /,CASE,Bread Crumbs,1,12.0,12.0,08/08/23
+45018,45.0,44.4,43.75,42.0,37.1,Capers In Vinegar 12/8oz,Sclafani,12/8oz,CASE,N,80602 02601,,CAPERS,N,,4,0.0,/  /,CASE,Capers In Vinegar 12/8oz,5,12.0,12.0,08/08/23
+45022,40.3,39.75,39.2,37.6,33.2,Chick Peas 24/16oz,Sclafani,24/16oz,CASE,N,,,BEANS,N,,8,0.0,/  /,CASE,Chick Peas 24/16oz,8,6.0,6.0,08/08/23
+45025,68.6,67.65,66.7,64.0,56.5,Clams Baby 24/10oz,Sclafani,24/10oz,CASE,N,,,FISH SHELL,N,,7,0.0,/  /,CASE,Clams Baby 24/10oz,7,6.0,6.0,08/08/23
+45046,65.45,64.55,63.65,61.1,53.9,Olives Extra Large Pitted 24/6oz,Sclafani,24/6oz,CASE,N,,,OLIVES,N,,0,0.0,/  /,CASE,Olives Extra Large Pitted 24/6oz,0,6.0,6.0,08/08/23
+45052,29.9,29.45,29.05,27.9,24.6,Red Peppers Roasted 12/7.5oz*,Sclafani,12/7.5oz,CASE,N,,,VEGETABLES,Y,,1,0.0,/  /,CASE,Red Peppers Roasted 12/7.5oz*,1,6.0,6.0,08/08/23
+45053,34.5,34.05,33.55,32.2,28.45,Red Peppers Roasted 12/12oz,Sclafani,12/12oz,CASE,N,,,VEGETABLES,N,,12,0.0,/  /,CASE,Red Peppers Roasted 12/12oz,13,6.0,6.0,08/08/23
+45054,1.2,1.15,1.05,1.0,0.85,Semolina Flour,Potenza,50lb,CASE,Y,,,FLOUR,N,,0,50.0,/  /,CASE,Semolina Flour,0,20.0,20.0,07/27/23
+45055,5.1,4.75,4.6,4.4,3.9,Almond Flour Xtra Fine Blanched,Blue Diamond,25lb,CASE,Y,8634,,NUTS,N,,39,25.0,07/25/23,CASE,Almond Flour Xtra Fine Blanched,39,1.0,1.0,08/01/23
+45055,5.1,4.75,4.6,4.4,3.9,Almond Flour Xtra Fine Blanched,Blue Diamond,25lb,CASE,Y,8634,,NUTS,N,,39,25.0,07/25/23,CASE,Almond Flour Xtra Fine Blanched,39,50.0,50.0,08/08/23
+45069,32.15,31.7,31.25,30.0,26.5,Pepperoncini 12/12oz,Sclafani,12/12oz,CASE,N,80602 01525,,VEGETABLES,N,,4,0.0,/  /,CASE,Pepperoncini 12/12oz,5,12.0,12.0,08/08/23
+45074,54.9,54.1,53.35,51.2,45.2,Marinara Sauce 12/16oz,Sclafani,12/16oz,CASE,N,,,SAUCES & STOCKS,N,,8,0.0,/  /,CASE,Marinara Sauce 12/16oz,8,12.0,12.0,08/08/23
+45075,81.0,79.9,78.75,75.6,66.75,Marinara Sauce 12/32oz,Sclafani,12/32oz,CASE,N,,,SAUCES & STOCKS,N,,3,0.0,/  /,CASE,Marinara Sauce 12/32oz,3,2.0,2.0,08/08/23
+45076,48.0,47.35,46.7,44.8,39.55,Pizza Sauce 12/16oz,Sclafani,12/16oz,CASE,N,80602 02480,,SAUCES & STOCKS,N,,-3,0.0,/  /,CASE,Pizza Sauce 12/16oz,-3,16.0,16.0,08/08/23
+45077,48.0,47.35,46.7,44.8,39.55,Spaghetti Sauce 12/16oz,Sclafani,12/16oz,CASE,N,,,SAUCES & STOCKS,N,,5,0.0,/  /,CASE,Spaghetti Sauce 12/16oz,5,12.0,12.0,08/08/23
+45078,66.75,65.8,64.9,62.3,54.95,Spaghetti Sauce 12/32oz,Sclafani,12/32oz,CASE,N,,,SAUCES & STOCKS,N,,3,0.0,/  /,CASE,Spaghetti Sauce 12/32oz,3,12.0,12.0,08/08/23
+45079,55.75,54.95,54.2,52.0,45.9,Fra Diavolo Sauce 12/16oz,Sclafani,12/16oz,CASE,N,,,SAUCES & STOCKS,N,,5,0.0,/  /,CASE,Fra Diavolo Sauce 12/16oz,5,12.0,12.0,08/08/23
+45081,81.0,79.9,78.75,75.6,66.75,Filetto Di Pomodoro Sauce 12/32oz*,Sclafani,12/32oz,CASE,N,,,SAUCES & STOCKS,Y,,1,0.0,/  /,CASE,Filetto Di Pomodoro Sauce 12/32oz*,1,4.0,4.0,08/08/23
+45083,24.1,24.1,23.45,22.5,19.85,Tomatoes Sun Dried Julienne 5lb,Ambrosia,5lb,CASE,N,,,TOMATOES,N,,5,0.0,/  /,CASE,Tomatoes Sun Dried Julienne 5lb,5,10.0,10.0,07/31/23
+45085,39.25,38.7,38.15,36.6,32.3,Tomato Puree 12/28oz,Sclafani,12/28oz,CASE,N,80602 02765,,TOMATOES,N,,2,0.0,/  /,CASE,Tomato Puree 12/28oz,3,6.0,6.0,08/08/23
+45086,39.25,38.7,38.15,36.6,32.3,Crushed Tomatoes 12/28oz,Sclafani,12/28oz,CASE,N,,,TOMATOES,N,,6,0.0,/  /,CASE,Crushed Tomatoes 12/28oz,7,10.0,10.0,08/08/23
+45089,100.3,98.9,97.5,93.6,82.6,Vodka Sauce 12/32oz,Sclafani,12/32oz,CASE,N,,,SAUCES & STOCKS,N,,-1,0.0,/  /,CASE,Vodka Sauce 12/32oz,-1,16.0,16.0,08/08/23
+45092,46.6,45.95,45.3,43.5,38.4,Vinegar Red Wine 12/32oz,Sclafani,12/32oz,CASE,N,,,VINEGARS,N,,6,0.0,/  /,CASE,Vinegar Red Wine 12/32oz,6,2.0,2.0,08/08/23
+45096,55.8,55.0,54.25,52.1,45.95,Filetto Di Pomodoro Sauce 12/16oz,Sclafani,12/16oz,CASE,N,,,SAUCES & STOCKS,N,,2,0.0,/  /,CASE,Filetto Di Pomodoro Sauce 12/16oz,2,6.0,6.0,08/08/23
+45098,39.75,39.2,38.65,37.1,32.75,Orzo #16 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,1,0.0,/  /,CASE,Orzo #16 20/1lb,1,12.0,12.0,08/08/23
+45099,40.15,39.6,39.05,37.5,33.1,Spaghetti #1 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,13,0.0,/  /,CASE,Spaghetti #1 20/1lb,13,12.0,12.0,08/08/23
+45101,69.45,68.5,67.5,64.8,57.2,Long Fusilli #200 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,5,0.0,/  /,CASE,Long Fusilli #200 20/1lb,5,6.0,6.0,08/08/23
+45102,39.5,38.95,38.45,36.9,32.55,Linguine #3 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,0,0.0,/  /,CASE,Linguine #3 20/1lb,0,12.0,12.0,08/08/23
+45105,40.15,39.6,39.05,37.5,33.1,Rigatoni #7 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,4,0.0,/  /,CASE,Rigatoni #7 20/1lb,4,8.0,8.0,08/08/23
+45109,50.65,49.95,49.25,47.3,41.75,Orechhiette Piccole #300 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,5,0.0,/  /,CASE,Orechhiette Piccole #300 20/1lb,5,2.0,2.0,08/08/23
+45110,40.15,39.6,39.05,37.5,33.1,Cut Ziti #8 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,5,0.0,/  /,CASE,Cut Ziti #8 20/1lb,5,7.0,7.0,08/08/23
+45115,32.7,30.35,29.5,28.35,25.0,Royal Basmati 20lb,Royal,20lb,CASE,N,,,RICE,N,,0,0.0,07/26/23,CASE,Royal Basmati 20lb,0,6.0,6.0,07/26/23
+45123,41.9,41.3,40.7,39.1,34.5,Arborio Rice 12/1lb,Sclafani,12/1lb,CASE,N,,,RICE,N,,0,0.0,/  /,CASE,Arborio Rice 12/1lb,1,20.0,20.0,08/08/23
+45129,62.4,61.5,59.75,55.75,49.2,Giardiniera 12/32oz,Sclafani,12/32oz,CASE,N,,,RELISH & KRAUT,N,,3,0.0,/  /,CASE,Giardiniera 12/32oz,3,6.0,6.0,08/08/23
+45130,39.95,39.4,38.85,37.3,32.9,Fettucine #18 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,8,0.0,/  /,CASE,Fettucine #18 20/1lb,8,4.0,4.0,08/08/23
+45134,47.9,47.2,46.55,44.7,39.45,Biscotti Almond Cookies 12/7oz,Sclafani,12/7oz,CASE,N,,,COOKIES,N,,-1,0.0,/  /,CASE,Biscotti Almond Cookies 12/7oz,-1,16.0,16.0,08/08/23
+45135,47.9,47.2,46.55,44.7,39.45,Biscotti Pistachio Cookies 12/7oz,Sclafani,12/6.35oz,CASE,N,,,COOKIES,N,,13,0.0,/  /,CASE,Biscotti Pistachio Cookies 12/7oz,14,2.0,2.0,08/08/23
+45136,47.9,47.2,46.55,44.7,39.45,Biscotti Chocolate Cookies 12/7oz,Sclafani,12/7oz,CASE,N,,,COOKIES,N,,5,0.0,/  /,CASE,Biscotti Chocolate Cookies 12/7oz,6,6.0,6.0,08/08/23
+45138,39.65,39.1,38.55,37.0,32.65,Artichoke Hearts 1/4 12/14oz,Sclafani,12/14oz,CASE,N,,,VEGETABLES,N,,0,0.0,/  /,CASE,Artichoke Hearts 1/4 12/14oz,1,8.0,8.0,08/08/23
+45139,38.6,38.05,37.5,36.0,31.8,Tomatoes Italian Peeled 12/28oz,Sclafani,12/28oz,CASE,N,,,TOMATOES,N,,3,0.0,/  /,CASE,Tomatoes Italian Peeled 12/28oz,4,12.0,12.0,08/08/23
+45140,11.3,11.15,11.0,10.55,9.3,Pecorino Romano 44lb,Zerto,44lb,CASE,Y,,,CHEESE ITALY,N,,0,60.0,07/24/23,CASE,Pecorino Romano 44lb,1,2.0,2.0,07/31/23
+45146,39.65,39.1,38.55,37.0,32.65,Peppers Garlic Roasted,Sclafani,12/12oz,CASE,N,(0)80602-03941,,VEGETABLES,N,,6,0.0,/  /,CASE,Peppers Garlic Roasted,6,6.0,6.0,08/08/23
+45148,38.15,37.65,37.1,35.6,31.45,Semolina 12/17oz*,Sclafani,12/17.6oz,CASE,N,,,FLOUR,Y,,-2,0.0,/  /,CASE,Semolina 12/17oz*,-1,10.0,10.0,08/08/23
+45149,38.15,37.65,37.1,35.6,31.45,Polenta 12/17oz,Sclafani,12/17.6oz,CASE,N,,,FLOUR,N,,2,0.0,/  /,CASE,Polenta 12/17oz,3,3.0,3.0,08/08/23
+45150,49.0,48.35,47.65,45.75,40.4,Mafalda #25 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,0,0.0,/  /,CASE,Mafalda #25 20/1lb,0,6.0,6.0,08/08/23
+45152,36.3,35.8,35.3,33.9,29.9,Long Ziti #23 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,-1,0.0,/  /,CASE,Long Ziti #23 20/1lb,-1,12.0,12.0,08/08/23
+45164,92.45,91.15,89.9,86.3,76.15,Tomato Basil Sauce 12/32oz,Sclafani,12/32oz,CASE,N,,,SAUCES & STOCKS,N,,5,0.0,/  /,CASE,Tomato Basil Sauce 12/32oz,5,8.0,8.0,08/08/23
+45166,57.45,56.65,55.85,53.6,47.3,Olive Oil Extra Virgin 12/250mL,Sclafani,12/250mL,CASE,N,,,OILS OLIVE,N,,8,0.0,/  /,CASE,Olive Oil Extra Virgin 12/250mL,9,4.0,4.0,08/08/23
+45172,3.15,2.9,2.7,2.55,2.25,Garbanzo Beans Organic,Timeless,25lb,CASE,Y,,,BEANS,N,,2,25.0,/  /,CASE,Garbanzo Beans Organic,1,30.0,30.0,08/15/23
+45177,40.15,39.6,39.05,37.5,33.1,Spaghettini #2 20/1lb*,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,Y,,3,0.0,/  /,CASE,Spaghettini #2 20/1lb*,3,2.0,2.0,08/08/23
+45195,60.0,59.2,58.35,56.0,49.45,Tomatoes San Marzano D.O.P 28oz,Luigi Vitelli,12/28oz,CASE,N,,,TOMATOES,N,,9,0.0,/  /,CASE,Tomatoes San Marzano D.O.P 28oz,10,60.0,60.0,08/01/23
+45196,87.7,87.7,85.25,81.85,78.7,Dark Crunchy Pearls-55%,Valrhona,3kg,BAG,N,4719,,CHOCOLATE DECOR,N,,8,0.0,/  /,BAG,Dark Crunchy Pearls-55%,8,3.0,3.0,07/31/23
+45201,273.35,273.35,269.5,255.15,245.3,Komuntu 80% Bitter Chocolate,Valrhona,3/3kg,CASE,N,4655,,CHOC COUVERTURE,N,,0,0.0,/  /,CASE,Komuntu 80% Bitter Chocolate,0,1.0,1.0,07/31/23
+45212,309.3,304.95,300.7,288.7,277.6,Araguani 72% (Feves),Valrhona,3/3kg,CASE,N,4656,,CHOC COUVERTURE,N,,3,0.0,/  /,CASE,Araguani 72% (Feves),3,2.0,2.0,07/31/23
+45213,272.9,272.9,269.05,254.7,244.9,Manjari 64% (Feves),Valrhona,3/3kg,CASE,N,4655,,CHOC COUVERTURE,N,,9,0.0,/  /,CASE,Manjari 64% (Feves),9,10.0,10.0,07/31/23
+45216,330.15,325.5,321.0,308.15,271.9,P125 Coeur de Guanaja 80%(Feves),Valrhona,3/3kg,CASE,N,P125,,CHOC COUVERTURE,N,,0,0.0,/  /,CASE,P125 Coeur de Guanaja 80%(Feves),0,10.0,10.0,07/31/23
+45217,268.85,265.05,261.4,250.9,241.25,Caraibe 66% (Feves),Valrhona,3/3kg,CASE,N,4654,,CHOC COUVERTURE,N,,6,0.0,/  /,CASE,Caraibe 66% (Feves),6,8.0,8.0,07/31/23
+45219,198.0,213.35,210.35,201.95,170.72,Satilia 35% Milk Choc (Feves),Valrhona,26lb,CASE,N,7347,,CHOC COUVERTURE,N,,25,0.0,/  /,CASE,Satilia 35% Milk Choc (Feves),25,6.0,6.0,07/31/23
+45223,208.6,223.3,220.2,211.4,177.8,Satilia White Choc (Feves),Valrhona,26lb,CASE,N,19959,,CHOC COUVERTURE,N,,0,0.0,/  /,CASE,Satilia White Choc (Feves),0,10.0,10.0,07/31/23
+45224,77.1,76.05,75.0,72.0,69.2,Absolu Cristal (Neutral Glaze),Valrhona,5kg,PAIL,N,**Must Keep Cool**,,PASTRY INGRDNTS,N,,7,0.0,/  /,PAIL,Absolu Cristal (Neutral Glaze),7,4.0,4.0,07/31/23
+45227,26.4,26.05,25.65,24.65,23.7,Chocolate Batons 48%,Valrhona,300/5.3g,PC.,N,,,CHOCOLATE DECOR,N,,4,0.0,/  /,PC.,Chocolate Batons 48%,4,60.0,60.0,07/31/23
+45236,2.65,2.6,2.55,2.45,2.2,Lentils Black Beluga,Timeless,25lb,CASE,Y,,,BEANS,N,,4,25.0,/  /,CASE,Lentils Black Beluga,4,6.0,6.0,08/15/23
+45247,181.9,196.0,193.3,173.95,163.75,Tropilia Dark 70%,Valrhona,26lb,CASE,N,8517,,CHOC COUVERTURE,N,,15,0.0,/  /,CASE,Tropilia Dark 70%,15,12.0,12.0,07/31/23
+45254,40.15,39.6,39.05,37.5,33.1,Shells Medium #13 20/1lb,Sclafani,20/1lb,CASE,N,,,PASTA DRIED,N,,4,0.0,/  /,CASE,Shells Medium #13 20/1lb,4,2.0,2.0,08/08/23
+45256,274.15,0.0,0.0,255.9,246.05,Nyangbo 68% (Feves),Valrhona,3/3 kg,CASE,N,6085,,CHOC COUVERTURE,N,,0,0.0,/  /,CASE,Nyangbo 68% (Feves),0,8.0,8.0,07/31/23
+45290,111.15,109.6,108.05,103.75,91.55,BelCoat Dark Confectionery Coating,Grand Marque,22lb,CASE,N,200059,,CHOC COMPOUNDS,N,,11,0.0,/  /,CASE,BelCoat Dark Confectionery Coating,11,6.0,6.0,07/31/23
+45291,141.0,139.0,137.05,131.6,116.1,BelCoat White Confectionery Coating,Grand Marque,22lb,CASE,N,,,CHOC COMPOUNDS,N,,5,0.0,/  /,CASE,BelCoat White Confectionery Coating,5,6.0,6.0,07/31/23
+45301,62.25,61.35,60.5,58.1,51.25,Tomato Paste Italian 48/6oz,Luigi Vitelli,48/6oz,CASE,N,,,TOMATOES,N,,5,0.0,/  /,CASE,Tomato Paste Italian 48/6oz,6,20.0,20.0,08/01/23
+45310,80.7,79.55,78.45,75.3,66.45,Feta Cheese 7kg,Atalanta,7kg,CASE,N,,,CHEESE GREECE,N,,0,0.0,07/24/23,CASE,Feta Cheese 7kg,0,10.0,10.0,07/31/23
+45314,73.4,73.4,71.4,68.55,60.45,Goat Cheese Original,La Clare,2/4lb,CASE,N,,,CHEESE GOAT,N,,16,0.0,/  /,CASE,Goat Cheese Original,16,60.0,60.0,08/01/23
+45322,15.0,14.75,0.0,14.0,12.35,Chandoka Mixed Milk,La Clare,5lb,CASE,Y,,,CHEESE GOAT,N,,0,5.0,/  /,CASE,Chandoka Mixed Milk,0,2.0,2.0,08/01/23
+45367,32.3,31.85,31.4,30.15,26.6,Juice Apple Lemon Ginger 6/16oz,Pure Green,6/16oz,CASE,N,,,BEVERAGE JUICE,N,,83,0.0,/  /,CASE,Juice Apple Lemon Ginger 6/16oz,89,75.0,75.0,08/04/23
+45368,32.3,31.85,31.4,30.15,26.6,Juice Golden Girl 6/16oz,Pure Green,6/16oz,CASE,N,,,BEVERAGE JUICE,N,,79,0.0,/  /,CASE,Juice Golden Girl 6/16oz,79,25.0,25.0,08/04/23
+45615,42.7,42.1,41.5,39.85,35.2,Aji Mirasol 12/7.5oz*,Inca,12/7.5oz,CASE,N,,,LATIN FOODS,Y,,2,0.0,/  /,CASE,Aji Mirasol 12/7.5oz*,2,2.0,2.0,07/27/23
+45617,38.6,38.05,37.55,36.05,31.8,Harina Blanca Amarilla,Pan,4/5lb,CASE,N,,,FLOUR,N,,5,0.0,/  /,CASE,Harina Blanca Amarilla,5,1.0,1.0,07/27/23
+45622,230.95,224.5,215.55,202.05,190.2,Plantain Chips w/sea salt*,Panamericana,36/13oz,CASE,N,,,LATIN FOODS,N,,2,0.0,/  /,CASE,Plantain Chips w/sea salt*,2,2.0,2.0,07/27/23
+45626,13.05,13.85,13.65,13.45,13.25,Goji Berries Organic*,Potenza,10lb,PC.,Y,,,FRUITS,Y,,0,5.0,07/26/23,PC.,Goji Berries Organic*,0,2.0,2.0,07/26/23
+45658,18.05,18.05,16.75,15.65,13.8,Citric Acid SM,Potenza,32oz,PC.,N,,,TECHNCAL NGRDNT,N,,6,0.0,07/26/23,PC.,Citric Acid SM,6,9.0,9.0,07/26/23
+45661,135.0,125.35,0.0,117.0,103.25,Blackening Seasoning Pail*,Potenza,20lb,PAIL,N,,,SPICES,Y,,0,0.0,07/26/23,PAIL,Blackening Seasoning Pail*,0,1.0,1.0,07/26/23
+45900,24.15,22.45,0.0,20.95,18.5,Chives Dried LG*,Potenza,12oz,PC.,N,2oz,,SPICES,Y,,0,0.0,07/26/23,PC.,Chives Dried LG*,0,3.0,3.0,07/26/23
+46208,8.15,8.0,7.9,7.6,6.7,Chinese Black Rice,D'Allasandro,25lb,CASE,Y,,,RICE,N,,-3,26.0,/  /,CASE,Chinese Black Rice,-3,8.0,8.0,07/26/23
+46707,5.3,5.3,5.3,5.3,4.4,St. Julien Bonbon Box*,Fevco,168ct,CASE,N,,,CHOC BONBONS,Y,,0,0.0,/  /,CASE,St. Julien Bonbon Box*,0,500.0,500.0,08/21/23
+47046,41.5,40.95,40.35,38.75,34.2,Crackers Crispy Sea Salt,Tresors,12/3.3oz,CASE,N,,,CRACKERS,N,,3,0.0,/  /,CASE,Crackers Crispy Sea Salt,3,4.0,4.0,07/31/23
+47048,41.5,40.95,40.35,38.75,34.2,Crackers Crispy Poppy Pepper,Tresors,12/3.3oz,CASE,N,,,CRACKERS,N,,2,0.0,/  /,CASE,Crackers Crispy Poppy Pepper,2,1.0,1.0,07/31/23
+47074,41.1,40.5,39.95,38.35,33.85,Crackers Crispy Garlic Herbs,Tresors,12/3.3oz,CASE,N,,,CRACKERS,N,,4,0.0,/  /,CASE,Crackers Crispy Garlic Herbs,4,3.0,3.0,07/31/23
+47075,41.1,40.5,39.95,38.35,33.85,Crackers Crispy Olive Oil Basil,Tresors,12/3.3oz,CASE,N,,,CRACKERS,N,,1,0.0,/  /,CASE,Crackers Crispy Olive Oil Basil,1,4.0,4.0,07/31/23
+49000,54.6,53.8,53.05,50.95,44.95,Flour Bread Trailblazer Select T85,Cairnspring,50lb,BAG,N,,,FLOUR,N,,193,0.0,/  /,BAG,Flour Bread Trailblazer Select T85,196,150.0,150.0,08/15/23
+49001,54.6,53.8,53.05,50.95,44.95,Flour AP Sequoia T85,Cairnspring,50lb,BAG,N,,,FLOUR,N,,2,0.0,/  /,BAG,Flour AP Sequoia T85,2,150.0,150.0,08/15/23
+49005,58.6,57.75,56.95,54.7,48.25,Flour Glacier Peak Select T65,Cairnspring,50lb,BAG,N,,,FLOUR,N,,57,0.0,/  /,BAG,Flour Glacier Peak Select T65,57,200.0,200.0,08/15/23
+49037,49.3,48.6,0.0,46.0,40.6,Pappardelle No Egg Dry,Pappardelle's,10lb,CASE,N,3-plapa-10,,PASTA DRIED,N,,4,0.0,/  /,CASE,Pappardelle No Egg Dry,4,8.0,8.0,08/02/23
+49066,91.8,90.5,89.25,85.7,75.6,Spinach & Four Cheese Ravioli*,Pappardelle's,10lb,CASE,N,2-csfls-10,,PASTA FROZEN,Y,,-2,0.0,/  /,CASE,Spinach & Four Cheese Ravioli*,0,12.0,12.0,08/02/23
+49103,82.9,81.7,80.6,77.35,68.25,Gnocchi Lemon Ricotta*,Pappardelle's,10lb,CASE,N,2-irirg-10,,PASTA FROZEN,Y,,7,0.0,07/26/23,CASE,Gnocchi Lemon Ricotta*,7,7.0,7.0,07/26/23
+49103,82.9,81.7,80.6,77.35,68.25,Gnocchi Lemon Ricotta*,Pappardelle's,10lb,CASE,N,2-irirg-10,,PASTA FROZEN,Y,,7,0.0,07/26/23,CASE,Gnocchi Lemon Ricotta*,7,4.0,4.0,08/02/23
+49206,177.55,175.05,172.6,165.7,146.2,Anchovy Whole In Salt 12/750g,Scalia,12/750g,CASE,N,,,FISH MARINATED,N,,0,0.0,/  /,CASE,Anchovy Whole In Salt 12/750g,0,4.0,4.0,07/27/23
+49910,32.15,32.15,29.85,27.9,24.6,Milk Powder High Heat LG,Potenza,88oz,PC.,N,,,DAIRY,N,,13,0.0,07/26/23,PC.,Milk Powder High Heat LG,13,6.0,6.0,07/26/23
+49988,47.85,47.2,46.5,44.65,39.4,Dark Almond Toffee Petites*,ENSTROM,12/4oz,CASE,N,24346N,,SNACKS & CANDY,Y,,0,0.0,/  /,CASE,Dark Almond Toffee Petites*,0,1.0,1.0,08/02/23
+49989,47.85,47.2,46.5,44.65,39.4,Milk Almond Toffee Petites*,ENSTROM,12/4oz,CASE,N,24345N,,SNACKS & CANDY,Y,,0,0.0,/  /,CASE,Milk Almond Toffee Petites*,0,1.0,1.0,08/02/23
+50032,47.3,43.3,42.7,41.0,36.2,Pho Noodle*,Sincere Orient,3/10lb,CASE,N,,,ASIAN FOODS,Y,,-2,0.0,07/26/23,CASE,Pho Noodle*,-2,2.0,2.0,07/26/23
+50043,76.4,82.25,76.4,84.85,83.55,Coconut Cream 12/1L,Aroy-D,12/1L,CASE,N,,,ASIAN FOODS,N,,13,0.0,/  /,CASE,Coconut Cream 12/1L,13,20.0,20.0,08/01/23
+50051,54.65,53.9,53.15,51.0,45.0,Liquid Shio Koji,Hanamaruki,8/500mL,CASE,N,,,ASIAN SAUCES,N,,0,0.0,/  /,CASE,Liquid Shio Koji,0,12.0,12.0,08/01/23
+50055,438.0,431.85,425.85,408.8,360.75,Roasted Golden Sesame Seeds*,Wadaman,15/1kg,CASE,N,,,ASIAN FOODS,Y,,0,0.0,/  /,CASE,Roasted Golden Sesame Seeds*,0,1.0,1.0,08/01/23
+50057,71.0,70.0,69.05,66.3,58.5,Sansho Powder,Yamatsu Tsujita,10/4g,CASE,N,,,ASIAN FOODS,N,,0,0.0,/  /,CASE,Sansho Powder,0,3.0,3.0,08/01/23
+51011,11.95,11.8,11.6,11.15,9.85,Danish Blue Cheese 6lb,St. Clemens,6lb,CASE,Y,,,CHEESE DENMARK,N,,0,6.0,07/24/23,CASE,Danish Blue Cheese 6lb,0,6.0,6.0,07/31/23
+51063,25.75,25.4,25.0,24.0,21.2,Salami Finocchiona 2/4lb,IL Porcellino,2/4lb,CASE,Y,,,MEAT ITALIAN,N,,0,8.0,/  /,CASE,Salami Finocchiona 2/4lb,0,6.0,6.0,07/27/23
+51070,28.25,27.85,27.45,26.35,23.25,Saucisson Basque 2/4lb,IL Porcellino,2/4lb,CASE,Y,,,MEAT ITALIAN,N,,0,8.0,/  /,CASE,Saucisson Basque 2/4lb,0,4.0,4.0,07/27/23
+51280,6.25,5.8,5.65,5.4,7.84,Achiote Paste,Inka's,10.5oz,PC.,N,,,SPICES,N,,10,0.0,/  /,PC.,Achiote Paste,10,8.0,8.0,07/27/23
+53400,64.7,63.8,62.9,60.4,53.3,Mascarpone,Zerto,2/4lb,CASE,N,,,CHEESE DOMESTIC,N,,1,0.0,07/24/23,CASE,Mascarpone,1,3.0,3.0,07/31/23
+54008,62.8,61.95,61.1,58.65,51.75,Kalamata Olives Pitted,Divina,2/5lb,CASE,N,D0220,,OLIVES,N,,4,0.0,/  /,CASE,Kalamata Olives Pitted,4,15.0,15.0,08/03/23
+54010,59.45,58.6,57.8,55.5,48.95,Kalamata Olives with Pit*,Divina,2/5lb,CASE,N,D0221,,OLIVES,Y,,0,0.0,/  /,CASE,Kalamata Olives with Pit*,0,2.0,2.0,08/03/23
+54013,76.95,75.85,74.8,71.8,63.4,Grape Leaves Stuffed Dolmas,Ambrosia,6/2kg,CASE,N,,,HORS D'OEUVRES,N,,7,0.0,/  /,CASE,Grape Leaves Stuffed Dolmas,7,2.0,2.0,07/31/23
+54014,101.2,99.75,98.35,94.45,83.35,Oil Cured Olives Pitted,Barnier,2/5.5lb,CASE,N,CLP305,,OLIVES,N,,10,0.0,/  /,CASE,Oil Cured Olives Pitted,10,6.0,6.0,08/03/23
+54020,15.0,14.8,14.6,14.0,12.35,Stilton Blueberries,Somerdale,2/2.2lb,CASE,Y,,,CHEESE ENGLAND,N,,2,8.8,07/24/23,CASE,Stilton Blueberries,2,4.0,4.0,07/31/23
+54022,80.6,79.45,78.35,75.2,66.4,Double Devon Cream,Devon,6/17oz,CASE,N,,,DAIRY,N,,6,0.0,07/24/23,CASE,Double Devon Cream,6,3.0,3.0,07/31/23
+54061,95.35,0.0,0.0,76.3,67.3,Oyster Sauce*,Lee Kum Kee,6/80oz,CASE,N,,,ASIAN SAUCES,Y,,0,0.0,07/25/23,CASE,Oyster Sauce*,0,2.0,2.0,07/25/23
+54062,130.65,112.0,110.4,104.5,92.25,Vegetarian Oyster Sauce*,Pacific,12/33.8oz,CASE,N,,,ASIAN SAUCES,Y,,2,0.0,/  /,CASE,Vegetarian Oyster Sauce*,2,2.0,2.0,08/01/23
+55040,113.1,113.1,109.95,105.55,93.15,Pickled Okra Hot & Crunchy,Divina,6/3.3lb,CASE,N,,,VEGETABLES,N,,1,0.0,/  /,CASE,Pickled Okra Hot & Crunchy,1,1.0,1.0,08/03/23
+55044,30.55,30.15,29.7,28.55,25.2,Olives Stuffed Jalapeno 6/7.8oz*,Divina,6/7.8oz,CASE,N,,,OLIVES,Y,,1,0.0,/  /,CASE,Olives Stuffed Jalapeno 6/7.8oz*,1,2.0,2.0,08/03/23
+55504,19.05,18.8,18.55,17.8,15.7,White Peach Iced Tea,Teatulia,12/12oz,CASE,N,,,COFFEE & TEA,N,,0,0.0,/  /,CASE,White Peach Iced Tea,0,5.0,5.0,07/27/23
+57001,12.1,12.1,11.75,11.3,9.95,Taleggio,Auricchio,5lb,PC.,Y,115,,CHEESE ITALY,N,,0,5.0,/  /,PC.,Taleggio,0,10.0,10.0,07/31/23
+59006,70.55,69.55,68.6,65.85,58.1,Picholine Olives with Pits,Barnier,2/5.5lb,CASE,N,209,,OLIVES,N,,4,0.0,/  /,CASE,Picholine Olives with Pits,4,3.0,3.0,08/03/23
+59203,71.95,70.95,69.95,67.15,59.25,Madeleine Pure Butter,St. Michel,70/1.58oz,CASE,N,,,PATISSERIES,N,,4,0.0,/  /,CASE,Madeleine Pure Butter,4,2.0,2.0,07/31/23
+59223,37.55,37.0,36.5,35.05,30.95,Cake Raspberry Blueberry Raw,Nat's Raw,12/65g,CASE,N,,,CAKES & PIES,N,,2,0.0,/  /,CASE,Cake Raspberry Blueberry Raw,2,1.0,1.0,07/31/23
+59226,37.4,36.9,36.35,34.9,30.8,Cake Lime Mango Raw,Nat's Raw,12/65g,CASE,N,,,CAKES & PIES,N,,2,0.0,/  /,CASE,Cake Lime Mango Raw,2,2.0,2.0,07/31/23
+59228,37.55,37.0,36.5,35.05,30.95,Cake Raspberry Passion Fruit Raw,Nat's Raw,12/65g,CASE,N,,,CAKES & PIES,N,,0,0.0,/  /,CASE,Cake Raspberry Passion Fruit Raw,0,4.0,4.0,07/31/23
+59430,117.95,116.3,114.65,110.1,97.15,Choc Couverture Misterio 58%,Luker Cacao,22lb,CASE,N,D201,,CHOC COUVERTURE,N,,9,0.0,/  /,CASE,Choc Couverture Misterio 58%,9,6.0,6.0,07/31/23
+59431,128.1,126.3,124.55,119.55,105.5,Choc Couverture Perla 64%,Luker Cacao,22lb,CASE,N,D209,,CHOC COUVERTURE,N,,3,0.0,/  /,CASE,Choc Couverture Perla 64%,3,3.0,3.0,07/31/23
+59450,69.25,68.3,67.35,64.65,57.05,Cup Mini Dark Chocolate,ifigourmet,210ct,CASE,N,,,CHOCOLATE CUPS,N,,1,0.0,/  /,CASE,Cup Mini Dark Chocolate,1,1.0,1.0,07/31/23
+60051,157.8,146.5,142.45,136.75,120.65,Beef Wellington,Gourmet Kitchen,100ct,CASE,N,B2018,,HORS D'OEUVRES,N,,0,0.0,07/26/23,CASE,Beef Wellington,0,20.0,20.0,07/26/23
+60057,114.15,114.15,111.0,106.55,94.0,Wild Mushroom Tart,Gourmet Kitchen,100ct,CASE,N,M1026,,HORS D'OEUVRES,N,,3,0.0,07/26/23,CASE,Wild Mushroom Tart,3,15.0,15.0,07/26/23
+60061,137.55,135.6,133.75,128.4,113.3,Spring Roll Maui Shrimp,Gourmet Kitchen,100ct,CASE,N,S5036,,HORS D'OEUVRES,N,,0,0.0,07/26/23,CASE,Spring Roll Maui Shrimp,0,15.0,15.0,07/26/23
+60069,105.1,103.65,102.2,98.1,86.55,Arancini Asparagus & Mushrooms,Gourmet Kitchen,100ct,CASE,N,V2164,,HORS D'OEUVRES,N,,0,0.0,07/26/23,CASE,Arancini Asparagus & Mushrooms,0,15.0,15.0,07/26/23
+60075,196.1,187.8,185.2,177.8,156.85,Chocolate Truffle Assortment,Gourmet Kitchen,210ct,CASE,N,M9194,,CHOC BONBONS,N,,7,0.0,07/26/23,CASE,Chocolate Truffle Assortment,7,5.0,5.0,07/26/23
+60078,99.85,98.45,97.1,93.2,82.25,Coney Island Franks,Gourmet Kitchen,100ct,CASE,N,F1008,,HORS D'OEUVRES,N,,0,0.0,07/26/23,CASE,Coney Island Franks,0,5.0,5.0,07/26/23
+60083,134.9,131.05,127.4,122.3,107.95,Empanada Short Rib & Manchego,Gourmet Kitchen,100ct,CASE,N,B2202,,HORS D'OEUVRES,N,,5,0.0,07/26/23,CASE,Empanada Short Rib & Manchego,5,10.0,10.0,07/26/23
+60097,127.15,125.35,123.6,118.7,104.7,GF Quinoa and Zuchini Fritter,Gourmet Kitchen,100ct,CASE,N,OPD110,,HORS D'OEUVRES,N,,5,0.0,07/26/23,CASE,GF Quinoa and Zuchini Fritter,5,5.0,5.0,07/26/23
+61000,165.0,165.0,165.0,154.0,135.9,Cherries in Kirsch Griottes,Toques de Franc,6/37oz,CASE,N,,,FRUITS,N,,2,0.0,/  /,CASE,Cherries in Kirsch Griottes,2,1.0,1.0,08/08/23
+61009,219.25,219.25,0.0,190.0,167.65,Tamarind Wet Paste,Pacific,50/14oz,CASE,N,,,ASIAN FOODS,N,,1,0.0,/  /,CASE,Tamarind Wet Paste,1,2.0,2.0,08/01/23
+61014,197.7,197.7,192.2,184.5,162.8,Sweety Drops Peruvian Peppers,Divina,6/6.6lb,CASE,N,,,VEGETABLES,N,,2,0.0,/  /,CASE,Sweety Drops Peruvian Peppers,2,4.0,4.0,08/03/23
+61016,87.25,0.0,0.0,81.4,71.85,Sambal Oelek,Huy Fong,4/1gal,CASE,N,,,ASIAN SAUCES,N,,-1,0.0,/  /,CASE,Sambal Oelek,-1,20.0,20.0,08/01/23
+61025,69.25,69.25,68.25,64.6,57.0,Coconut Milk 12/1L,Aroy-D,12/1L,CASE,N,,,ASIAN FOODS,N,,14,0.0,/  /,CASE,Coconut Milk 12/1L,14,20.0,20.0,08/01/23
+61030,143.25,141.2,139.25,133.7,117.95,Agave Amber,Chantico,4/1gal,CASE,N,,,SUGAR & FONDANT,N,,3,0.0,/  /,CASE,Agave Amber,3,4.0,4.0,07/31/23
+61033,143.25,141.2,139.25,133.7,117.95,Agave Nectar Wild Light,Chantico,4/139oz,CASE,N,,,SUGAR & FONDANT,N,,0,0.0,/  /,CASE,Agave Nectar Wild Light,0,12.0,12.0,07/31/23
+61035,31.6,30.25,29.85,28.65,25.25,Anasazi Beans 10lb,Adobe Milling,10lb,BAG,N,,,BEANS,N,,1,0.0,07/24/23,BAG,Anasazi Beans 10lb,1,10.0,10.0,07/31/23
+61036,153.25,151.1,149.0,143.0,126.2,Wasabi Paste Frozen,Marui,6/26.8OZ,CASE,N,,,ASIAN FOODS,N,,0,0.0,07/25/23,CASE,Wasabi Paste Frozen,0,1.0,1.0,07/25/23
+62101,2.5,2.3,2.25,2.15,1.9,Raisins Black Thompson Select,Potenza,30lb,CASE,Y,,,FRUITS,N,,6,30.0,/  /,CASE,Raisins Black Thompson Select,6,3.0,3.0,08/08/23
+62115,50.6,49.9,49.2,47.2,41.65,Camembert,La Petit Reine,6/8.8oz,CASE,N,,,CHEESE FRANCE,N,,0,0.0,/  /,CASE,Camembert,0,6.0,6.0,07/31/23
+62126,15.0,15.0,14.6,14.0,12.4,Himalayan Pink Salt,D'Allasandro,35oz,PC.,N,,,SALT,N,,3,0.0,/  /,PC.,Himalayan Pink Salt,5,12.0,12.0,07/26/23
+62131,142.9,140.9,138.95,133.35,117.7,Le Delice du Jura Reblechon,Francais,6/1lb,CASE,N,,,CHEESE FRANCE,N,,0,0.0,/  /,CASE,Le Delice du Jura Reblechon,0,1.0,1.0,07/31/23
+62140,55.7,54.9,54.15,52.0,45.85,Salt Sea Fine Blue,La Baleine,12/26.5oz,CASE,N,,,SALT,N,,2,0.0,/  /,CASE,Salt Sea Fine Blue,2,2.0,2.0,08/08/23
+63009,5.75,5.65,5.6,5.35,4.75,Chorizo Bulk,Old Style,4/5lb,CASE,Y,CHR5V20,,SAUSAGE,N,,3,21.0,/  /,CASE,Chorizo Bulk,3,6.0,6.0,07/28/23
+63017,6.0,5.95,5.85,5.6,4.95,Pork Rocky Brat 4:1,Old Style,12lb,CASE,Y,RB14L12,,SAUSAGE,N,,2,13.0,/  /,CASE,Pork Rocky Brat 4:1,2,4.0,4.0,07/28/23
+63061,9.3,0.0,0.0,8.7,7.65,Rocky Brats Buffalo & Pork 3:1,Old Style,12lb,CASE,Y,RB33L12,,SAUSAGE,N,,4,13.0,/  /,CASE,Rocky Brats Buffalo & Pork 3:1,4,3.0,3.0,07/28/23
+63065,8.9,0.0,0.0,8.3,7.3,Grn Chili Cilantro Chicken 4:1,Old Style,12lb,CASE,Y,CHG4L12,,SAUSAGE,N,,0,13.0,/  /,CASE,Grn Chili Cilantro Chicken 4:1,0,8.0,8.0,07/28/23
+63078,5.75,5.65,5.6,5.35,4.75,Green Chili Cilantro Pork Bulk*,Old Style,20lb,CASE,Y,PGC5V20,,SAUSAGE,Y,,2,21.0,/  /,CASE,Green Chili Cilantro Pork Bulk*,2,4.0,4.0,07/28/23
+63201,60.0,59.2,58.35,56.0,49.45,"Chicken Pot Pie 5""",Hinman's,"6/5""",CASE,N,,,CAKES & PIES,N,,1,0.0,07/26/23,CASE,"Chicken Pot Pie 5""",1,5.0,5.0,07/26/23
+63203,72.15,71.15,70.15,67.35,59.45,Neopolitan Mixed Hand Pies*,Hinman's,6/3ct,CASE,N,,,CAKES & PIES,Y,,0,0.0,07/26/23,CASE,Neopolitan Mixed Hand Pies*,0,2.0,2.0,07/26/23
+63223,67.4,66.45,65.5,62.9,55.5,White Sandwich Loaf GF,OMG,4/31oz,CASE,N,,,BREAD,N,,17,0.0,07/25/23,CASE,White Sandwich Loaf GF,17,50.0,50.0,07/25/23
+63224,64.2,63.3,62.4,59.9,52.85,5 Grain Sandwich Loaf GF,OMG,4/31oz,CASE,N,,,BREAD,N,,3,0.0,07/25/23,CASE,5 Grain Sandwich Loaf GF,3,10.0,10.0,07/25/23
+63225,68.4,67.45,66.5,63.85,56.35,Burger Bun GF,OMG,32/3.2oz,CASE,N,,,BREAD,N,,9,0.0,07/25/23,CASE,Burger Bun GF,9,20.0,20.0,07/25/23
+63226,51.6,50.9,50.2,48.15,42.5,Dinner Roll White Indivd Wrap GF,OMG,48ct,CASE,N,,,BREAD,N,,9,0.0,07/25/23,CASE,Dinner Roll White Indivd Wrap GF,9,40.0,40.0,07/25/23
+63293,148.1,148.1,137.5,128.35,113.25,Milk Powder High Heat 25lb*,Potenza,25lb,CASE,N,,,DAIRY,Y,,0,0.0,07/26/23,CASE,Milk Powder High Heat 25lb*,0,1.0,1.0,07/26/23
+64001,132.4,128.6,0.0,120.0,105.9,Isomalt,PatisFrance,2/8.8lb,CASE,N,,,SUGAR & FONDANT,N,,2,0.0,/  /,CASE,Isomalt,2,3.0,3.0,08/08/23
+65488,32.3,31.85,31.4,30.15,26.6,Juice Melon Hydr8 6/16oz,Pure Green,6/16oz,CASE,N,,,BEVERAGE JUICE,N,,9,0.0,/  /,CASE,Juice Melon Hydr8 6/16oz,15,85.0,85.0,08/04/23
+65491,30.9,30.45,30.0,28.8,25.45,Juice Active Charcoal 6/16oz,Pure Green,6/16oz,CASE,N,,,BEVERAGE JUICE,N,,13,0.0,/  /,CASE,Juice Active Charcoal 6/16oz,13,12.0,12.0,08/04/23
+65493,32.3,31.85,31.4,30.15,26.6,Juice Shots Green Boost,Pure Green,12ct,CASE,N,,,BEVERAGE JUICE,N,,-3,0.0,/  /,CASE,Juice Shots Green Boost,3,95.0,95.0,08/04/23
+65498,32.3,31.85,31.4,30.15,26.6,Juice Coconut Hydr8 6/16oz,Pure Green,6/16oz,CASE,N,,,BEVERAGE JUICE,N,,32,0.0,/  /,CASE,Juice Coconut Hydr8 6/16oz,38,30.0,30.0,08/04/23
+65499,32.3,31.85,31.4,30.15,26.6,Juice Rockin' Beet 6/16oz*,Pure Green,6/16oz,CASE,N,,,BEVERAGE JUICE,N,,49,0.0,/  /,CASE,Juice Rockin' Beet 6/16oz*,55,20.0,20.0,08/04/23
+65500,32.3,31.85,31.4,30.15,26.6,Juice Shots Heartbeet,Pure Green,12ct,CASE,N,,,BEVERAGE JUICE,N,,-7,0.0,/  /,CASE,Juice Shots Heartbeet,-1,75.0,75.0,08/04/23
+65889,61.5,60.65,59.8,57.4,50.65,Greek Olive Mix Pitted,Divina,2/5lb,CASE,N,D0240,,OLIVES,N,,1,0.0,/  /,CASE,Greek Olive Mix Pitted,1,14.0,14.0,08/03/23
+65891,35.05,32.35,30.05,28.05,24.75,Xanthan Gum SM,Potenza,28oz,PC.,N,,,TECHNCAL NGRDNT,N,,1,0.0,07/26/23,PC.,Xanthan Gum SM,2,6.0,6.0,07/26/23
+65899,16.0,11.3,11.15,10.7,9.45,Black Mustard Seeds,Potenza,20oz,PC.,N,,,SPICES,N,,6,0.0,/  /,PC.,Black Mustard Seeds,6,6.0,6.0,07/26/23
+66138,338.35,314.2,305.45,293.25,258.75,Pistachio Paste,Dreidoppel,6/1kg,CASE,N,,,PASTRY INGRDNTS,N,,2,0.0,/  /,CASE,Pistachio Paste,2,1.0,1.0,07/31/23
+66142,433.7,402.7,391.55,375.9,331.65,Strawberry Paste,Dreidoppel,6/1kg,CASE,N,,,PASTRY INGRDNTS,N,,1,0.0,/  /,CASE,Strawberry Paste,1,1.0,1.0,07/31/23
+66159,77.75,77.75,75.6,72.55,64.0,Mustard Dijon Tarragon Retail*,Fallot,12/7.4oz,CASE,N,,,MUSTARD,Y,,0,0.0,/  /,CASE,Mustard Dijon Tarragon Retail*,0,2.0,2.0,08/08/23
+66167,386.3,358.7,348.75,334.8,295.4,Orange Paste*,Dreidoppel,6/1kg,CASE,N,,,PASTRY INGRDNTS,Y,,0,0.0,/  /,CASE,Orange Paste*,0,1.0,1.0,07/31/23
+66170,110.8,110.8,107.75,103.45,91.25,Pistachio Paste DGF 1kg,DGF,1kg,TUB,N,,,PASTRY INGRDNTS,N,,4,0.0,/  /,TUB,Pistachio Paste DGF 1kg,4,1.0,1.0,07/31/23
+66185,88.5,88.5,86.0,82.6,72.85,Raspberry Paste*,Dreidoppel,1kg,PC.,N,,,PASTRY INGRDNTS,Y,,0,0.0,/  /,PC.,Raspberry Paste*,0,3.0,3.0,07/31/23
+67029,62.75,61.85,61.0,58.55,51.65,Polenta Medium,Ambrosia,4/5lb,CASE,N,,,FLOUR,N,,2,0.0,/  /,CASE,Polenta Medium,2,4.0,4.0,07/31/23
+67037,88.8,86.35,0.0,82.9,73.15,Sriracha Sauce 12/28oz,Mien,12/28oz,CASE,N,,,ASIAN SAUCES,N,,0,0.0,/  /,CASE,Sriracha Sauce 12/28oz,0,30.0,30.0,08/01/23
+67044,9.6,9.45,9.3,8.95,7.9,Grana Padano Full 80lb,EMMA,80lb,CASE,Y,,,CHEESE ITALY,N,,1,85.0,07/24/23,CASE,Grana Padano Full 80lb,2,4.0,4.0,07/31/23
+67045,11.7,11.55,11.4,10.95,9.65,Parmigiano Reggiano 12/18mo Full,Agriform,80lb,CASE,Y,,,CHEESE ITALY,N,,0,91.0,07/26/23,CASE,Parmigiano Reggiano 12/18mo Full,0,6.0,6.0,07/31/23
+67080,56.3,55.5,54.75,52.55,46.4,Couscous Israeli,Ambrosia,4/5lb,CASE,N,,,PASTA DRIED,N,,2,0.0,/  /,CASE,Couscous Israeli,2,8.0,8.0,07/31/23
+67085,175.45,163.75,0.0,163.75,144.5,Rice Wild,Ambrosia,4/5lb,CASE,N,,,RICE,N,,6,0.0,/  /,CASE,Rice Wild,6,4.0,4.0,07/31/23
+67107,8.15,8.0,7.9,7.6,6.7,Havarti Creamy Dill 8lb*,Danish,8lb,CASE,Y,,,CHEESE DENMARK,Y,,1,9.0,/  /,CASE,Havarti Creamy Dill 8lb*,1,7.0,7.0,07/31/23
+67123,9.85,9.7,9.6,9.2,8.1,Provolone Valpadana Piccante,Albiero,2/11lb,CASE,Y,,,CHEESE ITALY,N,,4,22.0,07/24/23,CASE,Provolone Valpadana Piccante,4,2.0,2.0,07/31/23
+67149,37.55,37.0,36.5,35.05,29.9,Brie 60%,Entremont,2/1kg,CASE,N,,,CHEESE FRANCE,N,,0,0.0,/  /,CASE,Brie 60%,0,13.0,13.0,07/31/23
+67166,16.05,15.8,15.6,14.95,13.2,St Angel-Triple Creme,Guilloteau,2/1.7lb,CASE,Y,,,CHEESE FRANCE,N,,0,3.4,/  /,CASE,St Angel-Triple Creme,0,8.0,8.0,07/31/23
+67167,8.35,8.25,8.15,7.8,6.71,Brie 60% 3kg,Ermitage,3kg,CASE,Y,,,CHEESE FRANCE,N,,0,7.0,/  /,CASE,Brie 60% 3kg,0,3.0,3.0,07/31/23
+67169,14.4,14.2,14.0,13.45,11.9,Cambozola Blue,Bavarian,2/5lb,CASE,Y,,,CHEESE GERMANY,N,,1,10.0,/  /,CASE,Cambozola Blue,1,1.0,1.0,07/31/23
+67170,24.0,24.0,23.35,22.4,19.8,Roquefort,Papillon,3lb,PC.,Y,,,CHEESE FRANCE,N,,0,3.0,/  /,PC.,Roquefort,0,8.0,8.0,07/31/23
+67173,8.75,8.65,8.5,8.15,7.2,Swiss French Emmental,Frantal,6/4.4lb,CASE,Y,,,CHEESE FRANCE,N,,0,25.0,/  /,CASE,Swiss French Emmental,0,8.0,8.0,07/31/23
+67195,14.55,14.35,14.15,13.6,12.0,Bleu D'Auvergne,Cantorel,4/2.75lb,CASE,Y,,,CHEESE FRANCE,N,,0,12.0,/  /,CASE,Bleu D'Auvergne,0,2.0,2.0,07/31/23
+67225,68.05,68.05,66.15,63.5,56.05,Natural Orange Extract 2oz*,Amoretti,2oz,PC.,N,,,EXTRACTS,Y,,0,0.0,/  /,PC.,Natural Orange Extract 2oz*,0,9.0,9.0,07/31/23
+67271,78.15,77.05,75.95,72.95,64.35,Vincotto Original,Calogiuri,6/250mL,CASE,N,,,VINEGARS,N,,2,0.0,/  /,CASE,Vincotto Original,2,15.0,15.0,07/27/23
+67278,12.9,12.75,12.55,12.05,10.65,Fontina Aosta DOP 1/4 wheel,L. Monterosa,4.5lb,PC.,Y,,,CHEESE ITALY,N,,0,4.5,/  /,PC.,Fontina Aosta DOP 1/4 wheel,0,4.0,4.0,07/27/23
+67279,14.5,14.3,14.1,13.55,11.95,Delice de Bourgogne 2kg,Lincet,2kg,CASE,Y,,,CHEESE FRANCE,N,,0,4.0,/  /,CASE,Delice de Bourgogne 2kg,0,10.0,10.0,07/31/23
+67284,17.15,16.9,16.65,16.0,14.1,Ossau Iraty 9lb,Onetik,9lb,CASE,Y,,,CHEESE FRANCE,N,,1,9.0,/  /,CASE,Ossau Iraty 9lb,1,4.0,4.0,07/31/23
+67299,37.6,37.05,36.55,35.1,30.95,Bucheron Goat French Reine 2.2lb,La Petit Reine,1kg,CASE,N,,,CHEESE FRANCE,N,,0,0.0,/  /,CASE,Bucheron Goat French Reine 2.2lb,0,15.0,15.0,07/31/23
+67811,14.65,14.45,14.25,13.7,12.05,Cheddar Prairie Breeze,Milton Creamery,2/5lb,CASE,Y,,,CHEESE DOMESTIC,N,,15,10.0,/  /,CASE,Cheddar Prairie Breeze,15,15.0,15.0,07/31/23
+67817,22.45,22.15,21.85,20.95,18.5,La Tur Alta Langa,Alta Langa,6/7.76oz,CASE,Y,,,CHEESE ITALY,N,,0,3.0,/  /,CASE,La Tur Alta Langa,0,6.0,6.0,07/31/23
+67819,12.85,12.7,12.5,12.0,10.6,Primadonna Fino Red,Blue Fox,26lb,CASE,Y,,,CHEESE HOLLAND,N,,0,27.0,/  /,CASE,Primadonna Fino Red,0,1.0,1.0,07/31/23
+68745,18.75,18.5,18.25,17.5,15.45,Za'Atar 16oz,Potenza,16oz,JAR,N,,,SPICES,N,,10,0.0,/  /,JAR,Za'Atar 16oz,10,18.0,18.0,07/26/23
+68753,92.7,86.1,83.7,80.35,70.9,Dried Shiitake Mushrooms Bulk,Best,5lb,BAG,N,,,MUSH & TRUFFLES,N,,0,0.0,07/25/23,BAG,Dried Shiitake Mushrooms Bulk,0,4.0,4.0,07/25/23
+69101,283.2,262.95,255.65,245.45,216.55,Panettone Muffin Cups P70/50*,Qualita Paper,2000ct,CASE,N,P70/50,,NON-FOOD ITEMS,Y,,0,0.0,07/26/23,CASE,Panettone Muffin Cups P70/50*,0,1.0,1.0,07/26/23
+69125,25.15,24.8,24.45,23.5,20.75,"Pastry Bags Disposable 21""",Westco,100ct,PC.,N,,,NON-FOOD ITEMS,N,,10,0.0,/  /,PC.,"Pastry Bags Disposable 21""",10,8.0,8.0,07/27/23
+69921,21.1,0.0,0.0,19.7,17.4,Green Tea Unwrapped Pyramids,Teatulia,50ct,BAG,N,,,COFFEE & TEA,N,,4,0.0,/  /,BAG,Green Tea Unwrapped Pyramids,4,3.0,3.0,07/27/23
+69933,37.5,0.0,0.0,35.0,30.9,Black Iced Tea Portion Packs,Teatulia,24/1.5oz,CASE,N,,,COFFEE & TEA,N,,1,0.0,/  /,CASE,Black Iced Tea Portion Packs,1,5.0,5.0,07/27/23
+70002,73.7,72.65,71.65,68.8,60.7,Croissant Large,Delifrance,60/2.47oz,CASE,N,27234,,CROISS & DANISH,N,,2,0.0,/  /,CASE,Croissant Large,2,4.0,4.0,07/31/23
+70006,69.15,68.2,67.25,64.55,56.95,Apple Turnover Large,Delifrance,48/3.5oz,CASE,N,S8775,**FRAGILE**,CROISS & DANISH,N,,0,0.0,/  /,CASE,Apple Turnover Large,0,15.0,15.0,07/31/23
+70015,84.75,83.55,82.4,79.1,69.8,Croissant Almond Large,Delifrance,48/3.2oz,CASE,N,S9072,,CROISS & DANISH,N,,7,0.0,/  /,CASE,Croissant Almond Large,7,4.0,4.0,07/31/23
+70016,85.95,84.75,83.55,80.2,70.8,Croissant Mini,Delifrance,180/1.5oz,CASE,N,27863,,CROISS & DANISH,N,,12,0.0,/  /,CASE,Croissant Mini,12,10.0,10.0,07/31/23
+71019,135.8,172.8,169.75,166.75,158.4,Palm Oil Organic,Spectrum,33lb,CASE,N,,,OILS VEGETABLE,Y,,3,0.0,/  /,CASE,Palm Oil Organic,3,4.0,4.0,07/27/23
+71043,46.2,45.55,44.95,43.15,38.05,Sanding Sugar White,Kerry,8lb,PC.,N,,,SUGAR & FONDANT,N,,0,0.0,/  /,PC.,Sanding Sugar White,0,10.0,10.0,07/27/23
+71059,49.45,0.0,0.0,46.15,40.75,White Wine Vinegar 2/5L,Beaufor,2/5L,CASE,N,,,VINEGARS,N,,12,0.0,/  /,CASE,White Wine Vinegar 2/5L,12,10.0,10.0,08/03/23
+71062,50.35,43.15,0.0,40.3,35.55,Gelatin Sheets Silver,Gelita,1kg,PC.,N,Lot code:,,TECHNCAL NGRDNT,N,,12,0.0,/  /,PC.,Gelatin Sheets Silver,12,100.0,100.0,08/07/23
+71076,12.05,12.05,11.75,11.25,9.95,Sage Derby 9lb,Thistle Hill,9lb,CASE,Y,,,CHEESE ENGLAND,N,,0,9.0,/  /,CASE,Sage Derby 9lb,0,8.0,8.0,07/31/23
+71089,2.0,0.0,0.0,1.6,1.45,Buckwheat Flour Organic,Potenza,25lb,CASE,Y,,,FLOUR,N,,5,25.0,07/26/23,CASE,Buckwheat Flour Organic,5,3.0,3.0,07/26/23
+71093,105.9,102.95,0.0,98.8,87.2,Verjus Blanc,Fusion,6/750mL,CASE,N,,,VINEGARS,N,,6,0.0,/  /,CASE,Verjus Blanc,6,16.0,16.0,08/08/23
+71224,53.5,52.75,52.0,49.95,44.05,Spicy Greek Garden Medley,Divina,2/5lb,CASE,N,,,VEGETABLES,Y,,1,0.0,/  /,CASE,Spicy Greek Garden Medley,1,5.0,5.0,08/03/23
+71225,70.85,69.85,68.85,66.1,58.35,Tangerine & Chili Olives Pitted,Divina,2/7.4lb,CASE,N,,,OLIVES,N,,2,0.0,/  /,CASE,Tangerine & Chili Olives Pitted,2,3.0,3.0,08/03/23
+71500,127.7,124.05,120.6,115.8,102.15,Chorizo Dried Hot Spanish,Palacios,14/7.9oz,CASE,N,,,MEAT SPANISH,N,,0,0.0,/  /,CASE,Chorizo Dried Hot Spanish,0,12.0,12.0,07/31/23
+71511,48.7,45.25,44.0,42.2,37.25,Tapas Hojaldrada Empanada Dough*,Goya,16/11.6oz,CASE,N,,,LATIN FOODS,Y,,12,10.0,/  /,CASE,Tapas Hojaldrada Empanada Dough*,12,8.0,8.0,07/27/23
+72022,128.6,126.8,125.0,120.0,105.9,Cornichons,Ambrosia,6/5kg,CASE,N,,,PICKLES,N,,4,0.0,07/26/23,CASE,Cornichons,4,10.0,10.0,08/02/23
+72109,251.0,247.45,244.0,234.25,225.25,Jivara-Milk Chocolate (Feves),Valrhona,3/3kg,CASE,N,4658,,CHOC COUVERTURE,N,,7,0.0,/  /,CASE,Jivara-Milk Chocolate (Feves),7,20.0,20.0,07/31/23
+72110,275.65,271.75,268.0,257.25,247.35,Guanaja 70% (Feves),Valrhona,3/3kg,CASE,N,4653,,CHOC COUVERTURE,N,,6,0.0,/  /,CASE,Guanaja 70% (Feves),6,8.0,8.0,07/31/23
+72125,279.2,275.3,271.45,260.6,250.6,Caramelia (Feves)36%,Valrhona,3/3kg,CASE,N,#7098,,CHOC COUVERTURE,N,,13,0.0,/  /,CASE,Caramelia (Feves)36%,13,2.0,2.0,07/31/23
+72126,286.9,282.85,278.9,267.75,257.45,Chocolate Ivoire (Feves),Valrhona,3/3kg,CASE,N,4660,,CHOC COUVERTURE,N,,7,0.0,/  /,CASE,Chocolate Ivoire (Feves),7,5.0,5.0,07/31/23
+72128,307.0,302.7,298.5,286.55,275.55,Caramelia Crunchy Pearls,Valrhona,3/3kg,CASE,N,8425,,CHOCOLATE DECOR,N,,1,0.0,/  /,CASE,Caramelia Crunchy Pearls,1,2.0,2.0,07/31/23
+72129,316.1,311.65,307.3,295.0,283.65,Dulcey Blond Chocolate (Feves),Valrhona,3/3kg,CASE,N,31870,,CHOC COUVERTURE,N,,11,0.0,/  /,CASE,Dulcey Blond Chocolate (Feves),11,6.0,6.0,07/31/23
+72130,306.6,302.25,298.05,286.15,275.15,Opalys White (Feves),Valrhona,3/3kg,CASE,N,8118,,CHOC COUVERTURE,N,,10,0.0,/  /,CASE,Opalys White (Feves),10,15.0,15.0,07/31/23
+72132,267.3,263.55,259.9,249.5,239.9,Bahibï¿½ Milk 46% Feves,Valrhona,3/3kg,CASE,N,9997,,CHOC COUVERTURE,N,,3,0.0,/  /,CASE,Bahibé Milk 46% Feves,3,3.0,3.0,07/31/23
+72141,439.75,433.55,427.5,410.4,324.0,Valrhona Cocoa Powder-Bulk**,Valrhona,25kg,BAG,N,,,CHOC POWDERS,N,,0,0.0,/  /,BAG,Valrhona Cocoa Powder-Bulk**,0,1.0,1.0,07/31/23
+72505,123.9,132.75,130.9,123.9,109.35,Instant Yeast RED,Saf-Instant,20/1lb,CASE,N,,,PASTRY INGRDNTS,N,,5,0.0,/  /,CASE,Instant Yeast RED,5,3.0,3.0,07/27/23
+72506,124.5,133.4,131.5,124.5,109.85,Instant Yeast GOLD,Saf-Instant,20/1lb,CASE,N,,,PASTRY INGRDNTS,N,,1,0.0,/  /,CASE,Instant Yeast GOLD,1,6.0,6.0,07/27/23
+72605,179.95,177.45,174.95,167.95,161.5,Chocolate Chips 60%-4000ct,Valrhona,2/10lb,CASE,N,12140,,CHOCOLATE CHIPS,N,,25,0.0,/  /,CASE,Chocolate Chips 60%-4000ct,25,5.0,5.0,07/31/23
+72606,322.85,318.3,313.85,301.3,289.75,Azï¿½lia-Milk Choc w/ Hazelnuts-35%,Valrhona,3/3kg,CASE,N,11603,,CHOC COUVERTURE,N,,0,0.0,/  /,CASE,Azélia-Milk Choc w/ Hazelnuts-35%,0,1.0,1.0,07/31/23
+72608,213.05,210.05,207.1,198.85,191.2,Equatoriale Dark 55%,Valrhona,3/3kg,CASE,N,4661,,CHOC COUVERTURE,N,,9,0.0,/  /,CASE,Equatoriale Dark 55%,9,4.0,4.0,07/31/23
+72614,186.95,184.3,181.75,174.5,153.95,Broadmoor Blend 66% Feves,Valrhona,3/3kg,CASE,N,,,CHOC COUVERTURE,Y,,2,0.0,/  /,CASE,Broadmoor Blend 66% Feves,2,20.0,20.0,07/31/23
+72617,410.85,410.85,405.05,383.45,338.35,Inspiration Strawberry Feves,Valrhona,3/3kg,CASE,N,15391,,CHOC COUVERTURE,N,,6,0.0,/  /,CASE,Inspiration Strawberry Feves,6,3.0,3.0,07/31/23
+72627,533.3,526.25,519.45,533.3,470.55,Inspiration Yuzu Feves,Valrhona,3/3kg,CASE,N,19998,,CHOC COUVERTURE,N,,0,0.0,/  /,CASE,Inspiration Yuzu Feves,0,3.0,3.0,07/31/23
+72628,417.0,411.15,405.45,389.2,343.4,Inspiration Raspberry Feves,Valrhona,3/3kg,CASE,N,19999,,CHOC COUVERTURE,N,,6,0.0,/  /,CASE,Inspiration Raspberry Feves,6,3.0,3.0,07/31/23
+74003,393.35,376.7,371.5,356.6,297.2,Cocoa Powder-Carbon Black 10-12%,deZaan,20/1kg,CASE,N,,,CHOC POWDERS,N,,3,0.0,/  /,CASE,Cocoa Powder-Carbon Black 10-12%,1,2.0,2.0,07/25/23
+75021,84.6,83.4,82.25,78.95,69.65,Vacuum Pouch (3ml) 8x12*,Flair Pak,1000ct,CASE,N,,,NON-FOOD ITEMS,Y,,0,0.0,07/26/23,CASE,Vacuum Pouch (3ml) 8x12*,0,1.0,1.0,07/26/23
+75107,54.7,53.9,52.45,50.35,44.4,Olives Mediterranean Mix Pitted,Frutto D'Italia,2/1.8kg,CASE,N,,,OLIVES,N,,3,10.0,07/24/23,CASE,Olives Mediterranean Mix Pitted,3,3.0,3.0,07/31/23
+75111,434.65,428.55,422.6,405.7,357.95,Balsamic Artigianale Villa Manodori,Villa Manodori,12/250ml,CASE,N,,,VINEGARS,N,,1,18.0,07/24/23,CASE,Balsamic Artigianale Villa Manodori,1,1.0,1.0,07/31/23
+75114,136.35,136.35,132.55,127.25,112.3,Mustard Dijon Grain,Fallot,4/11lb,CASE,N,,,MUSTARD,N,,0,52.0,07/24/23,CASE,Mustard Dijon Grain,0,3.0,3.0,07/31/23
+75604,109.65,116.3,109.65,109.65,90.3,Plum Sugar Vinegar 6/20oz,Taiwan Sugar Co,6/20oz,CASE,N,,,VINEGARS,N,,9,12.0,/  /,CASE,Plum Sugar Vinegar 6/20oz,9,4.0,4.0,08/01/23
+76000,77.3,75.1,74.1,71.1,62.75,"Tart Shell Round Sweet 1.9""",La Rose Noir,125ct,CASE,N,8090417,,TART SHELLS,N,,0,0.0,07/24/23,CASE,"Tart Shell Round Sweet 1.9""",0,30.0,30.0,07/31/23
+76009,93.4,92.1,90.85,87.2,76.95,"Tart Shell Round Mini Graham 1.4""",La Rose Noir,210ct,CASE,N,8095066,,TART SHELLS,N,,0,0.0,07/24/23,CASE,"Tart Shell Round Mini Graham 1.4""",0,7.0,7.0,07/31/23
+76014,76.2,75.1,74.1,71.1,62.75,"Tart Shell Round Savory 1.8""",La Rose Noir,125ct,CASE,N,8090385,,TART SHELLS,N,,4,0.0,07/24/23,CASE,"Tart Shell Round Savory 1.8""",4,20.0,20.0,07/31/23
+76125,71.5,69.45,67.55,64.85,57.2,"Tart Shell Straight 3.75"" Sweet",Jean Ducourtieu,72ct,CASE,N,150559,,TART SHELLS,N,,9,0.0,/  /,CASE,"Tart Shell Straight 3.75"" Sweet",9,6.0,6.0,07/31/23
+76126,80.55,79.4,78.3,75.15,66.35,"Tart Shell Graham Round 2.2""",La Rose Noir,100ct,CASE,N,8095067,,TART SHELLS,N,,1,0.0,07/24/23,CASE,"Tart Shell Graham Round 2.2""",1,4.0,4.0,07/31/23
+77002,5.55,5.15,5.0,4.8,4.25,Almonds Sliced Blanched,Potenza,25lb,CASE,Y,,,NUTS,N,,10,25.0,07/25/23,CASE,Almonds Sliced Blanched,10,5.0,5.0,08/01/23
+77002,5.55,5.15,5.0,4.8,4.25,Almonds Sliced Blanched,Potenza,25lb,CASE,Y,,,NUTS,N,,10,25.0,07/25/23,CASE,Almonds Sliced Blanched,10,3.0,3.0,08/08/23
+77003,6.55,6.45,6.35,6.1,5.4,Figs Calimyrna,Potenza,30lb,CASE,Y,,,FRUITS,N,,2,30.0,07/25/23,CASE,Figs Calimyrna,2,2.0,2.0,08/01/23
+77017,7.4,7.2,7.1,6.8,6.0,Cherries Tart Dried,Potenza,25lb,CASE,Y,,,FRUITS,N,,10,25.0,/  /,CASE,Cherries Tart Dried,10,8.0,8.0,08/08/23
+77022,4.65,4.6,4.55,4.35,3.85,Almonds Sliced Natural Raw,Potenza,25lb,CASE,Y,,,NUTS,N,,11,25.0,07/25/23,CASE,Almonds Sliced Natural Raw,11,12.0,12.0,08/01/23
+77023,9.0,8.9,8.75,8.4,7.45,Macadamia Nuts Halves & Pieces,Potenza,25lb,CASE,Y,,,NUTS,N,,3,25.0,07/25/23,CASE,Macadamia Nuts Halves & Pieces,3,2.0,2.0,08/01/23
+77024,4.45,4.35,4.25,4.05,3.6,Walnut Halves & Pieces,Potenza,25lb,CASE,Y,,,NUTS,N,,15,25.0,07/25/23,CASE,Walnut Halves & Pieces,15,2.0,2.0,08/01/23
+77024,4.45,4.35,4.25,4.05,3.6,Walnut Halves & Pieces,Potenza,25lb,CASE,Y,,,NUTS,N,,15,25.0,07/25/23,CASE,Walnut Halves & Pieces,15,5.0,5.0,08/08/23
+77033,76.75,75.65,74.6,71.65,63.2,Almonds Marcona Sauteed Salted 2kg,La Gruta del So,4.4lb,BAG,N,,,NUTS,N,,12,0.0,/  /,BAG,Almonds Marcona Sauteed Salted 2kg,12,35.0,35.0,07/31/23
+77034,4.7,4.6,4.55,4.35,3.85,Pepitas Raw,Potenza,55lbs,CASE,Y,,,NUTS,N,,5,55.0,07/25/23,CASE,Pepitas Raw,5,8.0,8.0,08/01/23
+77035,6.65,6.15,6.0,5.75,5.1,Apricots Dried,Potenza,28lb,CASE,Y,,,FRUITS,N,,7,28.0,07/25/23,CASE,Apricots Dried,7,6.0,6.0,08/01/23
+77035,6.65,6.15,6.0,5.75,5.1,Apricots Dried,Potenza,28lb,CASE,Y,,,FRUITS,N,,7,28.0,07/25/23,CASE,Apricots Dried,7,2.0,2.0,08/08/23
+77036,3.55,3.5,3.45,3.35,2.95,Cranberries Dried,Potenza,25lb,CASE,Y,,,FRUITS,N,,9,25.0,07/25/23,CASE,Cranberries Dried,9,4.0,4.0,08/01/23
+77040,2.0,1.95,0.0,1.8,1.6,Sunflower Kernels Raw,Potenza,55lb,CASE,Y,,,NUTS,N,,11,55.0,/  /,CASE,Sunflower Kernels Raw,11,2.0,2.0,08/08/23
+77041,9.0,8.85,8.75,8.4,7.4,Peaches Dried,Potenza,25lb,CASE,Y,,,FRUITS,N,,0,25.0,07/26/23,CASE,Peaches Dried,0,1.0,1.0,07/26/23
+77042,5.5,5.45,5.35,5.15,4.55,Figs Black Mission,Potenza,30lb,CASE,Y,,,FRUITS,N,,7,30.0,07/25/23,CASE,Figs Black Mission,7,2.0,2.0,08/01/23
+77044,3.45,3.3,3.25,3.15,2.8,Raisins Golden,Potenza,30lb,CASE,Y,,,FRUITS,N,,15,30.0,/  /,CASE,Raisins Golden,15,2.0,2.0,08/08/23
+77051,9.0,8.5,8.35,8.0,7.1,Blueberries Dried,Potenza,25lb,CASE,Y,,,FRUITS,N,,3,25.0,/  /,CASE,Blueberries Dried,3,2.0,2.0,08/08/23
+77053,4.65,4.45,4.4,4.3,3.8,Almonds Whole Natural,Potenza,50lb,CASE,Y,,,NUTS,N,,4,50.0,07/25/23,CASE,Almonds Whole Natural,4,6.0,6.0,08/01/23
+77060,8.1,7.5,0.0,7.0,6.2,Chorizo Bilbao Semi Cured 10/16oz,La Espanola,10/16oz,CASE,Y,,,MEAT SPANISH,N,,-2,10.0,/  /,CASE,Chorizo Bilbao Semi Cured 10/16oz,-2,16.0,16.0,07/31/23
+77061,9.55,9.25,8.09,8.9,7.85,Chorizo Soria,La Espanola,10/3lb,CASE,Y,,,MEAT SPANISH,N,,1,36.0,/  /,CASE,Chorizo Soria,1,4.0,4.0,07/31/23
+77062,115.75,114.1,112.5,108.0,95.3,Piparras Basque Green Peppers 1gal,La Espanola,4/1gal,CASE,N,,,VEGETABLES,N,,2,0.0,/  /,CASE,Piparras Basque Green Peppers 1gal,2,2.0,2.0,07/31/23
+77068,8.35,0.0,0.0,7.8,6.9,Salchichon De Vic Dry Salami 7/1.5,La Espanola,7/1.5lb,CASE,Y,,,MEAT SPANISH,N,,2,10.0,/  /,CASE,Salchichon De Vic Dry Salami 7/1.5,2,8.0,8.0,07/31/23
+77076,14.25,13.3,12.5,11.75,11.1,Serrano 12 Month Boneless,Palacios,12lb,PC.,Y,,,MEAT SPANISH,N,,8,12.0,/  /,PC.,Serrano 12 Month Boneless,8,6.0,6.0,07/31/23
+77081,8.75,0.0,0.0,8.15,7.2,Sausage Chistorra Basque Style*,La Espanola,10/1lb,CASE,Y,,,MEAT SPANISH,Y,,0,0.0,/  /,CASE,Sausage Chistorra Basque Style*,0,4.0,4.0,07/31/23
+77082,17.55,17.3,17.05,16.4,14.45,Green Chile Powder Mild SM*,Potenza,20oz,PC.,N,,,SPICES,Y,,-1,0.0,07/26/23,PC.,Green Chile Powder Mild SM*,-1,1.0,1.0,07/26/23
+77083,8.75,0.0,0.0,8.2,7.2,Blood Sausage Morcilla de Cebolla,La Espanola,10/1lb,CASE,Y,,,MEAT SPANISH,N,,1,10.0,/  /,CASE,Blood Sausage Morcilla de Cebolla,1,2.0,2.0,07/31/23
+77087,98.5,97.1,95.75,91.95,81.15,Molasses,Ambrosia,4/1gal,CASE,N,,,PASTRY INGRDNTS,N,,0,0.0,/  /,CASE,Molasses,0,2.0,2.0,07/31/23
+77088,4.5,4.3,4.25,4.1,3.6,Dates Medjool,Potenza,15lb,CASE,Y,,,FRUITS,N,,4,16.5,07/26/23,CASE,Dates Medjool,4,18.0,18.0,08/01/23
+77088,4.5,4.3,4.25,4.1,3.6,Dates Medjool,Potenza,15lb,CASE,Y,,,FRUITS,N,,4,16.5,07/26/23,CASE,Dates Medjool,4,6.0,6.0,07/26/23
+77115,48.9,48.9,47.55,45.65,40.3,Rye Flour Organic,Potenza,25lb,CASE,N,,,FLOUR,N,,6,11.0,07/26/23,CASE,Rye Flour Organic,6,2.0,2.0,07/26/23
+77206,3.05,2.75,0.0,2.65,2.35,Petite Crimson Lentils Decorticated,Timeless,25lb,CASE,Y,,,BEANS,N,,8,25.0,/  /,CASE,Lentils Red Crimson Decorticated,8,2.0,2.0,08/15/23
+77208,3.4,3.35,3.3,3.15,2.8,Farro Organic,Timeless,25lb,CASE,Y,,,GRAINS,N,,21,25.0,/  /,CASE,Farro Organic,21,4.0,4.0,08/15/23
+77222,9.25,0.0,0.0,8.6,7.6,Cantimpalitos*,La Espanola,10/1lb,CASE,Y,,,MEAT SPANISH,Y,,3,0.0,/  /,CASE,Cantimpalitos*,3,1.0,1.0,07/31/23
+77300,168.95,166.55,164.25,157.7,139.15,Extra Virgin Olive Oil 1923,Sogno Toscano,4/3L,CASE,N,1000.16,,OILS OLIVE,N,,7,0.0,07/26/23,CASE,Extra Virgin Olive Oil 1923,7,10.0,10.0,07/31/23
+77723,96.2,94.8,92.2,88.5,78.1,Puff Pastry Half Sheets,Le Coq,16/1.1lb,CASE,N,PHSM-16,,CROISS & DANISH,N,,0,0.0,/  /,CASE,Puff Pastry Half Sheets,0,24.0,24.0,07/31/23
+77724,125.85,124.05,120.6,115.75,102.15,Croissant Chocolate Large,Le Coq,90/2.88oz,CASE,N,RCHOCL-105 (90/2.88oz),,CROISS & DANISH,N,,17,0.0,/  /,CASE,Croissant Chocolate Large,17,90.0,90.0,07/31/23
+77725,85.3,85.3,82.95,74.65,70.25,Croissant Small,Le Coq,105/1.6oz,CASE,N,RCRS-105,,CROISS & DANISH,N,,15,0.0,/  /,CASE,Croissant Small,15,40.0,40.0,07/31/23
+77726,75.7,72.5,71.5,68.65,60.6,Croissant Large,Le Coq,64/3oz,CASE,N,RCRL-64 (64/3oz),,CROISS & DANISH,N,,85,0.0,/  /,CASE,Croissant Large,85,90.0,90.0,07/31/23
+77729,260.8,257.1,253.55,228.2,214.75,Danish Apple Small,Le Coq,280/1.3oz,CASE,N,RAPDS-280,,CROISS & DANISH,N,,4,0.0,/  /,CASE,Danish Apple Small,4,8.0,8.0,07/31/23
+77732,243.95,240.55,237.2,213.45,200.9,Danish Cheese Small,Le Coq,300/1oz,CASE,N,RCHEDS-300,,CROISS & DANISH,N,,8,0.0,/  /,CASE,Danish Cheese Small,8,4.0,4.0,07/31/23
+77733,163.85,161.55,159.3,143.4,134.95,Danish Apricot Small,Le Coq,144/1.45oz,CASE,N,RAPRDS-144,,CROISS & DANISH,N,,3,0.0,/  /,CASE,Danish Apricot Small,3,4.0,4.0,07/31/23
+77734,171.3,168.85,166.5,149.85,141.05,Danish Cherry Small,Le Coq,168/1.5oz,CASE,N,RCYOFDS168,,CROISS & DANISH,N,,18,0.0,/  /,CASE,Danish Cherry Small,18,4.0,4.0,07/31/23
+77735,93.3,92.0,90.75,87.1,76.85,Croissant Ham & Swiss,Le Coq,45/3oz,CASE,N,RHCCL-45,,CROISS & DANISH,N,,13,0.0,/  /,CASE,Croissant Ham & Swiss,13,24.0,24.0,07/31/23
+77737,86.1,84.9,83.75,80.4,70.95,Croissant Spinach & Ricotta,Le Coq,45/3oz,CASE,N,RSPRCL-45,,CROISS & DANISH,N,,21,0.0,/  /,CASE,Croissant Spinach & Ricotta,21,16.0,16.0,07/31/23
+77751,136.7,133.0,131.2,125.95,111.1,Croissant Raisin Large,Le Coq,98/3.5oz,CASE,N,RRAICL-98,,CROISS & DANISH,N,,8,0.0,/  /,CASE,Croissant Raisin Large,8,12.0,12.0,07/31/23
+77753,223.0,219.85,216.8,208.15,183.65,Blueberry Danish (Small)*,Le Coq,240/1oz,CASE,N,RBLDS-240(BM/JJ),,CROISS & DANISH,N,,20,0.0,/  /,CASE,Blueberry Danish (Small)*,20,10.0,10.0,07/31/23
+77757,159.4,157.15,152.85,148.8,131.3,Cinnamon Bun Medium,Le Coq,90/2.25oz,CASE,N,RCINBM-90(BM),,CROISS & DANISH,N,,17,0.0,/  /,CASE,Cinnamon Bun Medium,17,12.0,12.0,07/31/23
+77763,136.15,134.25,132.4,119.15,112.15,Cinnamon Bun Small,Le Coq,168/1.7oz,CASE,N,RCIBS-168,,CROISS & DANISH,N,,9,0.0,/  /,CASE,Cinnamon Bun Small,9,12.0,12.0,07/31/23
+77765,28.6,28.2,27.85,26.7,23.6,French Baguette,La Belle,10ct,CASE,N,,,BREAD,N,,2,0.0,07/26/23,CASE,French Baguette,2,45.0,45.0,07/26/23
+77776,31.9,30.7,34.15,32.75,28.9,Blueberry Financier GF,La Belle,16ct,CASE,N,,,PATISSERIES,N,,2,0.0,07/26/23,CASE,Blueberry Financier GF,2,10.0,10.0,07/26/23
+77778,30.85,33.45,32.95,31.65,27.95,Almond Financier GF*,La Belle,16ct,CASE,N,,,PATISSERIES,Y,,3,0.0,07/26/23,CASE,Almond Financier GF*,3,12.0,12.0,07/26/23
+77782,49.5,55.8,55.0,52.8,46.6,Chocolate Croissant 4oz,La Belle,24ct,CASE,N,,,CROISS & DANISH,N,,-1,0.0,07/26/23,CASE,Chocolate Croissant 4oz,-1,1.0,1.0,07/20/23
+77782,49.5,55.8,55.0,52.8,46.6,Chocolate Croissant 4oz,La Belle,24ct,CASE,N,,,CROISS & DANISH,N,,-1,0.0,07/26/23,CASE,Chocolate Croissant 4oz,-1,8.0,8.0,07/26/23
+77783,39.65,43.55,42.95,41.2,36.35,Butter Croissant 4oz,La Belle,20ct,CASE,N,,,CROISS & DANISH,N,,1,0.0,07/26/23,CASE,Butter Croissant 4oz,1,2.0,2.0,07/26/23
+77786,15.7,16.8,16.55,15.9,14.05,Banana Bread Sliced*,La Belle,1ea,LOAF,N,,,PATISSERIES,Y,,2,0.0,07/26/23,LOAF,Banana Bread Sliced*,2,6.0,6.0,07/26/23
+77787,15.7,16.8,16.55,15.9,14.05,Lemon Bread Sliced*,La Belle,1ea,LOAF,N,,,PATISSERIES,Y,,2,0.0,07/26/23,LOAF,Lemon Bread Sliced*,2,6.0,6.0,07/26/23
+77791,74.65,73.6,72.6,69.7,61.5,Dumpling Wrappers Round,Kwan Sang,16/14oz,CASE,N,,,ASIAN FOODS,N,,1,0.0,07/26/23,CASE,Dumpling Wrappers Round,1,6.0,6.0,07/26/23
+77801,60.35,59.5,58.7,56.35,49.7,Fried Wonton Wrapper*,Kwan Sang,30lb,CASE,N,,,ASIAN FOODS,Y,,2,0.0,07/26/23,CASE,Fried Wonton Wrapper*,2,2.0,2.0,07/26/23
+77802,114.0,112.4,110.85,106.4,93.9,Puff Pastry Full Sheets,Le Coq,16/2.2lb,CASE,N,PSM-16,,CROISS & DANISH,N,,5,0.0,/  /,CASE,Puff Pastry Full Sheets,5,8.0,8.0,07/31/23
+77808,4.5,0.0,0.0,3.9,3.45,Donut Sugar New Snow,Dawn,50lb,CASE,Y,,,SUGAR & FONDANT,N,,0,50.0,/  /,CASE,Donut Sugar New Snow,1,1.0,1.0,07/27/23
+77811P,5.3,4.85,4.8,4.6,4.05,Chia Seeds Black Organic 5lb,Potenza,5lb,PC.,Y,,,GRAINS,N,,3,5.0,07/26/23,PC.,Chia Seeds Black Organic 5lb,0,5.0,5.0,07/26/23
+77825,155.6,153.45,151.3,145.25,128.15,Croissant Almond log Medium,Le Coq,100/2.65oz,CASE,N,RALCM-105,,CROISS & DANISH,N,,10,0.0,/  /,CASE,Croissant Almond log Medium,10,8.0,8.0,07/31/23
+77835,111.6,110.05,108.5,104.2,91.95,Danish Cinnamon Large,Le Coq,98/2.75oz,CASE,N,RCINDL-98,,CROISS & DANISH,N,,5,0.0,/  /,CASE,Danish Cinnamon Large,5,8.0,8.0,07/31/23
+77845,236.05,229.5,0.0,220.3,194.4,Danish Variety Pack Small,Le Coq,252/1.15oz,CASE,N,RDVS-252,,CROISS & DANISH,N,,0,0.0,/  /,CASE,Danish Variety Pack Small,0,24.0,24.0,07/31/23
+77869,129.55,127.75,0.0,120.95,106.7,Danish Cheese Large,Le Coq,98/2.7oz,CASE,N,RCHEDL-98,,CROISS & DANISH,N,,20,0.0,/  /,CASE,Danish Cheese Large,21,8.0,8.0,07/31/23
+77883,47.3,53.3,52.6,50.5,47.3,"Bacon & Cheddar Quiche 4""",La Belle,12ct,CASE,N,,,PATISSERIES,N,,3,0.0,07/26/23,CASE,"Bacon & Cheddar Quiche 4""",3,30.0,30.0,07/26/23
+77884,47.3,53.3,52.6,50.5,44.55,"Spinach & Mushroom Quiche 4""",La Belle,12ct,CASE,N,,,PATISSERIES,N,,9,0.0,07/26/23,CASE,"Spinach & Mushroom Quiche 4""",9,20.0,20.0,07/26/23
+77888,31.9,34.6,34.15,32.75,28.9,Chocolate Financier GF,La Belle,16ct,CASE,N,,,PATISSERIES,N,,1,0.0,07/26/23,CASE,Chocolate Financier GF,1,8.0,8.0,07/26/23
+77897,89.35,88.1,86.85,83.4,73.6,Mirror Glaze Cold,Jelfix,7kg,PAIL,N,,,TECHNCAL NGRDNT,N,,2,0.0,/  /,PAIL,Mirror Glaze Cold,2,6.0,6.0,07/31/23
+77904,52.9,59.6,58.75,56.4,49.8,Pain Suisse*,La Belle,24ct,CASE,N,,,PATISSERIES,Y,,1,0.0,07/26/23,CASE,Pain Suisse*,1,2.0,2.0,07/26/23
+77905,56.4,55.6,54.85,52.65,46.45,Nutella Cruffin*,La Belle,24ct,CASE,N,,,CROISS & DANISH,Y,,4,0.0,07/26/23,CASE,Nutella Cruffin*,4,3.0,3.0,07/26/23
+77906,44.0,49.6,48.9,46.95,41.45,Almond Croissant*,La Belle,20ct,CASE,N,,,CROISS & DANISH,Y,,-2,0.0,07/26/23,CASE,Almond Croissant*,-2,2.0,2.0,07/20/23
+77906,44.0,49.6,48.9,46.95,41.45,Almond Croissant*,La Belle,20ct,CASE,N,,,CROISS & DANISH,Y,,-2,0.0,07/26/23,CASE,Almond Croissant*,-2,8.0,8.0,07/26/23
+78033,45.8,42.25,39.25,36.65,32.35,Sumac LG,Potenza,80oz,PC.,N,,,SPICES,N,,4,0.0,07/26/23,PC.,Sumac LG,4,3.0,3.0,07/26/23
+78044,66.1,0.0,0.0,61.7,54.4,Udon Noodles Fresh*,Pacific,30/7oz,CASE,N,,,ASIAN FOODS,Y,,0,0.0,07/25/23,CASE,Udon Noodles Fresh*,0,2.0,2.0,07/25/23
+78103,28.5,26.45,25.7,24.7,21.8,Turmeric Ground LG,Potenza,80oz,PC.,N,,,SPICES,N,,4,0.0,07/26/23,PC.,Turmeric Ground LG,4,3.0,3.0,07/26/23
+78562,347.15,247.95,241.1,231.45,204.2,Vegetable Glycerin*,Nature's Oil,44lb,PC.,N,,,OILS VEGETABLE,Y,,-1,0.0,/  /,PC.,Vegetable Glycerin*,-1,1.0,1.0,07/24/23
+78790,44.85,37.9,37.35,35.85,31.65,Duck Eggs 20 ct*,Pacific,20ct,CASE,N,,,ASIAN FOODS,Y,,0,0.0,07/25/23,CASE,Duck Eggs 20 ct*,0,1.0,1.0,07/25/23
+78793,98.1,96.7,95.35,91.55,80.8,Mushroom Seasoning Powder,Lee Kum Kee,12/400g,CASE,N,,,ASIAN FOODS,N,,0,0.0,07/25/23,CASE,Mushroom Seasoning Powder,0,1.0,1.0,07/25/23
+79998,70.15,65.15,63.3,60.8,53.65,Millet Hulled,Potenza,50lb,CASE,N,,,GRAINS,N,,0,0.0,07/26/23,CASE,Millet Hulled,1,1.0,1.0,07/26/23
+80000,13.95,12.75,12.6,12.05,10.65,Nutritional Yeast,Potenza,1lb,BAG,N,,,SPICES,N,,-1,0.0,07/26/23,BAG,Nutritional Yeast,-1,18.0,18.0,07/26/23
+80015,73.15,72.15,71.15,68.3,60.25,Sugar Trimoline Inverted,DGF,7kg,PAIL,N,,,SUGAR & FONDANT,N,,9,0.0,/  /,PAIL,Sugar Trimoline Inverted,9,4.0,4.0,07/31/23
+80060,476.5,463.1,456.65,438.4,386.8,Cherries Amarena,Brover,6/2.75kg,CASE,N,,,FRUITS,N,,2,0.0,/  /,CASE,Cherries Amarena,2,8.0,8.0,08/08/23
+80077,106.9,105.4,103.9,99.75,88.0,Instant Custard (pastry cream cold),Pastry Star,25lb,CASE,N,,,PASTRY INGRDNTS,N,,0,0.0,/  /,CASE,Instant Custard (Pastry Cream),0,3.0,3.0,08/14/23
+80085,104.3,104.3,101.4,97.35,85.9,Raspberry Jam Seedless Bake Proof,Pastry Star,20lb,PAIL,N,,,PASTRY INGRDNTS,N,,13,0.0,/  /,PAIL,Raspberry Jam Seedless Bake Proof,13,30.0,30.0,08/14/23
+80095,96.0,89.15,86.7,83.2,73.45,Strawberry Jam Bake Proof,Pastry Star,20lb,PAIL,N,,,PASTRY INGRDNTS,N,,21,0.0,/  /,PAIL,Strawberry Jam Bake Proof,21,30.0,30.0,08/14/23
+80100,140.8,138.85,136.9,131.4,115.95,Apricot Glaze,DGF,14kg,PAIL,N,,,PASTRY INGRDNTS,N,,1,0.0,/  /,PAIL,Apricot Glaze,1,1.0,1.0,07/31/23
+80101,80.95,79.8,78.7,75.55,66.65,Fondant Patissier,DGF,17.6lb,PAIL,N,,,SUGAR & FONDANT,N,,14,0.0,/  /,PAIL,Fondant Patissier,14,8.0,8.0,07/31/23
+80107,380.8,369.95,364.75,345.3,304.65,Chocolate Batons 300ct,DGF,15/300ct,CASE,N,,,CHOCOLATE DECOR,N,,9,0.0,/  /,CASE,Chocolate Batons 300ct,9,4.0,4.0,07/31/23
+80110,80.45,0.0,0.0,75.1,66.25,Genoise Mix,ifigourmet,22lb,BAG,N,,,PASTRY INGRDNTS,N,,1,0.0,/  /,BAG,Genoise Mix,1,1.0,1.0,07/31/23
+80117,41.65,41.05,40.5,38.9,34.3,Glucose Dried,ifigourmet,11lb,PAIL,N,,,SUGAR & FONDANT,N,,7,0.0,/  /,PAIL,Glucose Dried,7,4.0,4.0,07/31/23
+80118,624.25,606.65,598.25,574.3,506.75,Fruit Pectin*,Louis Francois,6/1kg,CASE,N,E440,,TECHNCAL NGRDNT,Y,,1,0.0,/  /,CASE,Fruit Pectin*,1,4.0,4.0,07/31/23
+81102,10.8,10.65,10.5,10.1,8.9,Buffalo Jalapeno Cheddar Bratwurst,Continental,10lb,CASE,Y,,,SAUSAGE,N,,0,11.0,/  /,CASE,Buffalo Jalapeno Cheddar Bratwurst,1,4.0,4.0,07/27/23
+81107,88.85,86.35,85.15,81.75,72.15,Bosna Sausage*,Continental,10lb,CASE,N,,,SAUSAGE,N,,27,0.0,/  /,CASE,Bosna Sausage*,27,30.0,30.0,07/27/23
+81108,105.8,104.3,102.85,98.75,87.15,Elk Jalapeno Cheddar Bratwurst,Continental,10lb,CASE,N,,,SAUSAGE,N,,3,0.0,/  /,CASE,Elk Jalapeno Cheddar Bratwurst,3,4.0,4.0,07/27/23
+84022,217.5,214.45,211.5,203.0,179.15,Strawberry Jam Organic,Colo Mtn Jam,4/1gal,CASE,N,,,PRESERVES,N,,3,0.0,/  /,CASE,Strawberry Jam Organic,3,2.0,2.0,07/27/23
+84023,217.5,214.45,211.5,203.0,179.15,Raspberry Jam Organic,Colo Mtn Jam,4/1gal,CASE,N,,,PRESERVES,N,,3,0.0,/  /,CASE,Raspberry Jam Organic,3,3.0,3.0,07/27/23
+84026,217.5,214.45,211.5,203.0,179.15,Mission Fig Jam,Colo Mtn Jam,4/1gal,CASE,N,,,PRESERVES,N,,3,0.0,/  /,CASE,Mission Fig Jam,3,1.0,1.0,07/27/23
+84029,217.5,214.45,211.5,203.0,179.15,Apricot Jam,Colo Mtn Jam,4/1gal,CASE,N,,,PRESERVES,N,,1,0.0,/  /,CASE,Apricot Jam,1,2.0,2.0,07/27/23
+84040,54.65,53.9,53.15,51.0,45.0,Strawberry Jam Organic 12/8oz,Colo Mtn Jam,12/8oz,CASE,N,,,PRESERVES,N,,0,0.0,/  /,CASE,Strawberry Jam Organic 12/8oz,0,2.0,2.0,07/27/23
+85555,157.45,155.25,153.1,146.95,129.65,Manzanilla Olives Pitted,Losada,4/1gal,CASE,N,,,OLIVES,N,,2,0.0,/  /,CASE,Manzanilla Olives Pitted,2,1.0,1.0,07/31/23
+85561,154.6,152.4,150.3,144.3,127.3,Olive Mix Carmona Natural,Losada,4/1gal,CASE,N,,,OLIVES,N,,1,0.0,/  /,CASE,Olive Mix Carmona Natural,1,1.0,1.0,07/31/23
+85569,125.15,0.0,0.0,116.8,103.1,Serrano Ham Sliced Palacios 3.5oz,Palacios,12/3.5oz,CASE,N,,,MEAT SPANISH,N,,5,0.0,/  /,CASE,Serrano Ham Sliced Palacios 3.5oz,5,8.0,8.0,07/31/23
+85571,47.15,0.0,0.0,44.0,38.85,Chips Potato Black Truffle,Torres,20/40g,CASE,N,,,CRACKERS,N,,-4,0.0,/  /,CASE,Chips Potato Black Truffle,-4,25.0,25.0,07/31/23
+85572,47.15,0.0,0.0,44.0,38.85,Chips Potato Iberico Ham,Torres,20/50g,CASE,N,,,CRACKERS,N,,11,0.0,/  /,CASE,Chips Potato Iberico Ham,12,6.0,6.0,07/31/23
+85573,47.15,0.0,0.0,44.0,38.85,Chips Potato Extra Virgin Olive Oil,Torres,20/50g,CASE,N,,,CRACKERS,N,,7,0.0,/  /,CASE,Chips Potato Extra Virgin Olive Oil,8,8.0,8.0,07/31/23
+85576,47.15,0.0,0.0,44.0,38.85,Chips Potato Cured Cheese,Torres,20/50g,CASE,N,,,CRACKERS,N,,6,0.0,/  /,CASE,Chips Potato Cured Cheese,7,8.0,8.0,07/31/23
+85585,109.3,102.0,95.65,90.0,85.0,Chorizo Iberico 15/2oz,Fermin,15/2oz,CASE,N,,,MEAT SPANISH,N,,0,0.0,/  /,CASE,Chorizo Iberico 15/2oz,0,3.0,3.0,07/31/23
+86500,12.7,11.6,11.2,12.7,11.2,Turkey Smoked Peach Wood ABF,River Bear,3/5lb,CASE,Y,,,MEAT POULTRY,N,,0,15.0,07/26/23,CASE,Turkey Smoked Peach Wood ABF,-1,14.0,14.0,07/26/23
+86502,14.7,13.45,12.95,14.7,12.95,Pastrami Black Angus*,River Bear,2/4lb,CASE,Y,,,MEAT BEEF,Y,,0,25.0,07/26/23,CASE,Pastrami Black Angus*,0,1.0,1.0,07/26/23
+86504,15.65,15.25,14.7,16.7,14.7,Ham Country Dry Cured*,River Bear,20lb,CASE,Y,,,MEAT HAM,Y,,-1,25.0,07/26/23,CASE,Ham Country Dry Cured*,-1,1.0,1.0,07/26/23
+86508,8.25,8.1,8.0,7.7,6.8,Pork Breakfast Links*,River Bear,4/12oz,CASE,Y,,,SAUSAGE,Y,,3,12.0,07/26/23,CASE,Pork Breakfast Links*,1,2.0,2.0,07/26/23
+86509,12.5,12.35,12.2,11.7,10.3,Summer Sausage*,River Bear,20/1lb,CASE,Y,,,SAUSAGE,Y,,2,20.0,07/26/23,CASE,Summer Sausage*,2,5.0,5.0,07/26/23
+86623,100.8,99.4,98.0,94.1,83.0,Heath Bar Pieces*,TR Toppers,2/5lb,CASE,N,,,SNACKS & CANDY,Y,,2,0.0,/  /,CASE,Heath Bar Pieces*,2,1.0,1.0,07/27/23
+86624,99.15,97.75,96.4,92.5,81.65,Powdered Sugar Organic,Potenza,50lb,BAG,N,,,SUGAR & FONDANT,N,,0,0.0,07/26/23,BAG,Powdered Sugar Organic,0,1.0,1.0,07/26/23
+86626,47.2,45.9,0.0,44.05,38.9,Sugar Powdered 10X,Dawn,50lb,BAG,N,,,SUGAR & FONDANT,N,,8,0.0,/  /,BAG,Sugar Powdered 10X,9,5.0,5.0,07/27/23
+87003,44.6,47.15,44.6,41.85,39.4,Sturia Caviar Vintage 30g,Sturia Caviar,30g,TIN,N,Best By Date:,,CAVIAR,N,,17,0.0,/  /,TIN,Sturia Caviar Vintage 30g,17,8.0,8.0,09/01/23
+87004,22.35,23.6,22.35,20.95,19.7,Sturia Caviar Origin 15g,Sturia Caviar,15g,TIN,N,Best By Date:,,CAVIAR,N,,3,0.0,/  /,TIN,Sturia Caviar Origin 15g,3,40.0,40.0,09/01/23
+87005,44.6,47.15,44.6,41.85,39.4,Sturia Caviar Origin 30g,Sturia Caviar,30g,TIN,N,Best By Date:,,CAVIAR,N,,17,0.5,/  /,TIN,Sturia Caviar Origin 30g,17,8.0,8.0,09/01/23
+87012,450.0,475.4,468.75,421.9,397.1,Sturia Caviar Oscietra 250g*,Sturia Caviar,250g,TIN,N,Best By Date:,,CAVIAR,Y,,0,0.0,/  /,TIN,Sturia Caviar Oscietra 250g*,0,3.0,3.0,09/01/23
+87021,180.0,190.15,180.0,168.75,158.85,Sturia Caviar Oscietra 100g,Sturia Caviar,100g,TIN,N,Best By Date:,,CAVIAR,N,,0,0.5,/  /,TIN,Sturia Caviar Oscietra 100g,0,6.0,6.0,09/01/23
+87137,8.65,8.55,8.45,8.1,7.15,Prosciutto Cotto Herbs*,Leoncini,18b,CASE,Y,,,MEAT ITALIAN,Y,,30,18.0,/  /,CASE,Prosciutto Cotto Herbs*,30,20.0,20.0,07/27/23
+87145,53.4,52.65,51.95,49.85,44.0,Hi-Pro Flour Unbleached*,Giusto's,50lb,BAG,N,,,FLOUR,Y,,1,0.0,/  /,BAG,Hi-Pro Flour Unbleached*,1,10.0,10.0,08/10/23
+87146,25.75,25.4,25.05,24.05,20.05,Sea Salt Fine Bulk,Giusto's,25lb,CASE,N,,,SALT,N,,6,0.0,/  /,CASE,Sea Salt Fine Bulk,6,20.0,20.0,08/10/23
+87150,8.65,8.55,8.4,8.1,7.15,Prosciutto Cotto Ham 16lb*,Leoncini,16lb,CASE,Y,,,MEAT ITALIAN,Y,,4,18.0,/  /,CASE,Prosciutto Cotto Ham 16lb*,4,14.0,14.0,07/27/23
+88010,26.25,25.9,25.55,24.5,21.65,Egg Replacer*,Bob's Red Mill,5/12oz,CASE,N,,,TECHNCAL NGRDNT,Y,,0,0.0,07/26/23,CASE,Egg Replacer*,0,1.0,1.0,07/26/23
+88028,29.05,0.0,0.0,27.15,23.95,Soy Lecithin Powder-400gr,Sosa,400gr,PC.,N,,,TECHNCAL NGRDNT,N,,2,0.0,/  /,PC.,Soy Lecithin Powder-400gr,2,6.0,6.0,07/31/23
+88030,77.05,71.55,70.55,66.75,58.9,Curls Dark Blossom,Luijckx,8.8lb,CASE,N,96300,,CHOCOLATE DECOR,N,,0,0.0,/  /,CASE,Curls Dark Blossom,0,10.0,10.0,07/31/23
+88035,93.75,87.05,85.8,81.25,71.7,Curls White Blossom,Luijckx,8.8lb,CASE,N,96302,,CHOCOLATE DECOR,N,,1,0.0,/  /,CASE,Curls White Blossom,1,5.0,5.0,07/31/23
+88039,66.5,65.55,64.65,62.05,54.75,"Microdrops Mixed 25,000ct",ifigourmet,5.5lb,CASE,N,96364,,CHOCOLATE DECOR,N,,1,6.0,/  /,CASE,"Microdrops Mixed 25,000ct",1,1.0,1.0,07/31/23
+88044,331.55,307.9,299.35,287.35,253.55,Seasoning Everything Bagel 50#*,Potenza,50lb,PC.,N,,,SPICES,Y,,0,0.0,07/26/23,PC.,Seasoning Everything Bagel 50#*,0,1.0,1.0,07/26/23
+88060,4.35,4.25,4.2,4.05,3.55,Spice Container Large Handle*,Potenza,54ct,PC.,N,,,NON-FOOD ITEMS,N,,0,0.0,07/20/23,PC.,Spice Container Large Handle*,0,90.0,90.0,/  /
+88061,4.6,4.5,4.45,4.3,3.8,Spice Container Large LID*,Potenza,54ct,PC.,N,,,NON-FOOD ITEMS,N,,0,0.0,07/20/23,PC.,Spice Container Large LID*,0,90.0,90.0,/  /
+88102,44.15,43.55,42.95,42.35,36.35,Pretzel Twist 10oz,Prop & Peller,12ct,CASE,N,PPP12J,Salt Included,BREAD,N,,33,0.0,/  /,CASE,Pretzel Twist 10oz,33,24.0,24.0,08/07/23
+88104,77.1,76.0,74.95,71.95,63.5,Pretzel Bites,Prop & Peller,500/0.48oz,CASE,N,PPP480,Salt Included,BREAD,N,,13,0.0,/  /,CASE,Pretzel Bites,13,20.0,20.0,08/07/23
+88106,70.7,69.75,68.75,66.0,58.25,Pretzel Zeppelin Stick 1.14oz,Prop & Peller,140ct,CASE,N,PPP5S140B,"Salt Included - 5""",BREAD,N,,33,0.0,/  /,CASE,Pretzel Zeppelin Stick 1.14oz,33,12.0,12.0,08/07/23
+88107,45.4,44.8,44.15,42.4,37.4,"Pretzel Sub 6.5"" 3.7oz",Prop & Peller,45ct,CASE,N,PPP65S45B,,BREAD,N,,0,0.0,/  /,CASE,"Pretzel Sub 6.5"" 3.7oz",0,12.0,12.0,08/07/23
+88108,63.6,62.7,61.85,59.35,52.4,"Pretzel Bun 4"" 3oz",Prop & Peller,72ct,CASE,N,PPP4B72B,Salt Not Included,BREAD,N,,-1,0.0,/  /,CASE,"Pretzel Bun 4"" 3oz",-1,12.0,12.0,08/07/23
+88153,56.4,55.6,55.6,52.65,46.45,Agar Agar Powder,Sosa,500g,PC.,N,,,TECHNCAL NGRDNT,N,,5,0.0,/  /,PC.,Agar Agar Powder,5,6.0,6.0,07/31/23
+88166,69.6,68.6,68.6,64.95,50.09,Strawberry Crispy Wet Proof- 400g,Sosa,400gr,PC.,N,,,TECHNCAL NGRDNT,N,,4,0.0,/  /,PC.,Strawberry Crispy Wet Proof- 400g,5,6.0,6.0,07/31/23
+88888,128.6,124.95,123.25,118.3,104.4,Croissant P&B Large,Delifrance,165/2.5oz,CASE,N,18615,,CROISS & DANISH,N,,3,0.0,/  /,CASE,Croissant P&B Large,3,10.0,10.0,07/31/23
+89000,144.65,144.65,140.65,135.0,112.27,Dark Choc Ecuador (Baking Choc)-56%,RDC,4/2.5kg,CASE,N,56% - 18830,,CHOC COUVERTURE,N,,1,0.0,/  /,CASE,Dark Choc Ecuador (Baking Choc)-56%,1,3.0,3.0,07/31/23
+89005,216.8,213.75,210.75,202.35,178.55,Milk Chocolate Peru 38%,RDC,4/2.5kg,CASE,N,18859,,CHOC COUVERTURE,N,,6,0.0,/  /,CASE,Milk Chocolate Peru 38%,8,5.0,5.0,07/31/23
+89012,223.9,220.75,217.7,208.95,174.15,White Choc Ecuador-31%,RDC,4/2.5kg,CASE,N,18843,,CHOC COUVERTURE,N,,16,0.0,/  /,CASE,White Choc Ecuador-31%,17,5.0,5.0,07/31/23
+89013,218.5,215.45,212.45,203.95,163.73,White Choc w/ Roasted Corn-33%,RDC,4/2.5kg,CASE,N,30033,,CHOC COUVERTURE,N,,1,0.0,/  /,CASE,White Choc w/ Roasted Corn-33%,1,4.0,4.0,07/31/23
+90000,15.9,15.65,15.45,14.8,13.1,Prosciutto Di San Daniele,Galloni,18lb,PC.,Y,,,MEAT ITALIAN,N,,1,18.0,/  /,PC.,Prosciutto Di San Daniele,1,3.0,3.0,08/07/23
+90024,82.0,80.85,79.75,76.55,67.55,Prosciutto Presliced 20mo 12/3oz,Galloni,12/3oz,CASE,N,,,MEAT ITALIAN,N,,12,0.0,/  /,CASE,Prosciutto Presliced 20mo 12/3oz,12,35.0,35.0,08/07/23
+90025,12.95,12.95,0.0,12.1,10.65,Speck Alto Adige 1/2 Cut,Recla,2/5lb,CASE,Y,,,MEAT ITALIAN,N,,2,12.0,/  /,CASE,Speck Alto Adige 1/2 Cut,2,8.0,8.0,07/27/23
+90026,14.1,14.2,14.0,13.4,12.2,Prosciutto Di Parma,Galloni,18lb,PC.,Y,,,MEAT ITALIAN,N,,27,18.0,/  /,PC.,Prosciutto Di Parma,27,10.0,10.0,08/07/23
+90027,18.4,18.15,18.15,16.35,15.4,Prosciutto Di Parma 24mo,Galloni,18lb,PC.,Y,,,MEAT ITALIAN,N,,0,18.0,/  /,PC.,Prosciutto Di Parma 24mo,0,6.0,6.0,08/07/23
+91000,59.51,49.7,48.3,46.35,40.9,Silica Desiccant Packs*,Chef Rubber,5/4oz,BAG,N,,,NON-FOOD ITEMS,Y,,-2,2.0,/  /,BAG,Silica Desiccant Packs*,-2,1.0,1.0,07/31/23
+94002,86.1,84.9,83.7,80.35,70.9,Toffee Singles Milk Chocolate Bulk*,ENSTROM,200ct,CASE,N,10102,,SNACKS & CANDY,Y,,0,0.0,/  /,CASE,Toffee Singles Milk Chocolate Bulk*,0,5.0,5.0,08/02/23
+94003,85.75,84.55,83.35,80.0,70.6,Toffee Singles Dark Chocolate Bulk*,ENSTROM,200ct,CASE,N,10103,,SNACKS & CANDY,Y,,1,0.0,/  /,CASE,Toffee Singles Dark Chocolate Bulk*,1,9.0,9.0,08/02/23
+98022,2660.15,2622.7,2586.25,2482.8,2190.7,Norohy Vanilla Bean Org Madagascar,Norohy,36/4.4oz,CASE,N,,,EXTRACTS,N,,0,10.0,/  /,CASE,Norohy Vanilla Bean Org Madagascar,0,1.0,1.0,07/31/23
+99981,157.3,144.0,142.0,136.35,120.3,Peanut Butter Smooth Organic*,Golden Organics,40lb,PAIL,N,,,PRESERVES,Y,,0,0.0,07/26/23,PAIL,Peanut Butter Smooth Organic*,0,2.0,2.0,07/26/23
+99984,2.35,0.0,0.0,2.2,1.95,Short Grain Brown Rice,Giusto's,25lb,CASE,Y,,,RICE,N,,8,25.0,/  /,CASE,Short Grain Brown Rice,8,10.0,10.0,08/10/23
+99988,2.55,2.5,2.5,2.45,2.5,Quinoa White Organic,Potenza,55lb,CASE,Y,,,GRAINS,N,,2,55.0,07/25/23,CASE,Quinoa White Organic,2,3.0,3.0,08/01/23
+99992,95.2,95.2,92.55,88.85,74.9,Artichoke Hearts Quartered 6/3kg,Del Destino,6/3kg,CASE,N,,,VEGETABLES,N,,6,0.0,07/24/23,CASE,Artichoke Hearts Quartered 6/3kg,6,3.0,3.0,07/31/23
+99994,176.65,174.2,171.75,164.9,145.5,Croissant Dough Sheets,Le Coq,10/4lb,CASE,N,CRDSHL-10,,CROISS & DANISH,N,,17,0.0,/  /,CASE,Croissant Dough Sheets,17,4.0,4.0,07/31/23
