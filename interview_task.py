@@ -1,7 +1,7 @@
 import csv
 import json
 from typing import Optional, Any
-from datetime import datetime, timedelta
+from datetime import datetime
 
 class PackUnit():
     BAG = "BAG"
@@ -168,7 +168,6 @@ class Item():
 
 
 class TestBundleGenerator():
-
     def generate_items(self):
         altamira_to_pepper = {
             "GAL.": PackUnit.GALLON,
@@ -196,7 +195,6 @@ class TestBundleGenerator():
             item_number_to_required_date_map = {}
             items = [] 
 
-
             for row in reader:
                 item_number_to_on_hand_quantity_map[row["Item Number"].strip()] = row["On Hand Quantity"].strip()
             
@@ -221,7 +219,6 @@ class TestBundleGenerator():
                         
 
                     item.key = {"integration_id":row["Item Number"]}
-
                     item.display_name = row["Description Line 1"].replace("?","").replace("�","")
                     item.name = row["Description Line 1"].replace("?","").replace("�","")
                     item.is_active = True
@@ -233,7 +230,6 @@ class TestBundleGenerator():
                     item.category = row["Class Name"]
                     item.code = row["Item Number"]
                     
-
                     # Logic for description 
 
                     temp = []
@@ -285,13 +281,10 @@ class TestBundleGenerator():
 
 
                     item.unit_of_measure = row["Unit of Measure"] if hasattr(PackUnit, row["Unit of Measure"]) else altamira_to_pepper[row["Unit of Measure"]]
-                    # item.unit_of_measure = row["Unit of Measure"]
-        #             item.metadata = ItemMetadataConfiguration().__dict__
+                    item.metadata = {"erp_unit":item.unit_of_measure}
 
-    
                     items.append(item)
                     jsonl_file.write(json.dumps(item.__dict__) + '\n')
-
 
             except UnicodeDecodeError as e:
                 print(row)  
