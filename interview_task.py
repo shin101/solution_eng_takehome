@@ -170,6 +170,16 @@ class Item():
 class TestBundleGenerator():
 
     def generate_items(self):
+        altamira_to_pepper = {
+            "GAL.": PackUnit.GALLON,
+            "HALF": PackUnit.HALF_GALLON,
+            "JUG": PackUnit.GALLON,
+            "PC.": PackUnit.PACK,
+            "TIN": PackUnit.CAN,
+            "LB.": PackUnit.POUND,
+            "PKG": PackUnit.PACKAGE,
+            "TOTE": PackUnit.POUND
+        }
 
         items = []
         jsonl_file_path = 'output.jsonl'
@@ -188,13 +198,15 @@ class TestBundleGenerator():
 
 
             for row in reader:
-                item_number_to_on_hand_quantity_map[row["Item Number"].strip()] = row["On Hand Quantity".strip()]
+                item_number_to_on_hand_quantity_map[row["Item Number"].strip()] = row["On Hand Quantity"].strip()
             
-            for row in leadtime_reader:
-                item_number_to_required_date_map[row["Item Number"].strip()] = row["Required Date".strip()]
+            if "Required Date" in leadtime_reader.fieldnames:
+                for row in leadtime_reader:
+                    item_number_to_required_date_map[row["Item Number"].strip()] = row["Required Date"].strip()
 
+            prices_file.seek(0)
 
-            try:
+            try:    
                 for row in reader:
                     row = {
                         key: value.strip() if isinstance(value ,str) else value for key, value in row.items()
@@ -208,7 +220,7 @@ class TestBundleGenerator():
                     item = Item()
                         
 
-                    item.key = key.__dict__
+                    item.key = {"integration_id":row["Item Number"]}
 
                     item.display_name = row["Description Line 1"].replace("?","").replace("�","")
                     item.name = row["Description Line 1"].replace("?","").replace("�","")
@@ -245,44 +257,39 @@ class TestBundleGenerator():
 
                     if int(row["On Hand Quantity"]) > 0:
                         item.lead_time_days = None
-
-                    item1 = row["Item Number"]
-                    print(item1["On Hand Quantity"])
-                    filter_letters = ["P", "S", "G"]
-
-                    if row["Item Number"][-1] in filter_letters:
-                        item2 = (row["Item Number"].replace("P",""))
                     else:
-                        item2 = item1 + "P"
+                        item1 = row["Item Number"]
+                        filter_letters = ["P", "S", "G"]
 
-                    if row["On Hand Quantity"] > 0 or item_number_to_on_hand_quantity_map[item2] > 0:
-                        item.lead_time_days = None
-                    if row["On Hand Quantity"] <= 0 and item_number_to_on_hand_quantity_map[item2] <= 0 :
-                        if item1 or item2 in leadtime_reader:
-                            required_date_str = item_number_to_required_date_map[row["Item Number"]] 
-                            required_date = datetime.strptime(required_date_str, '%m/%d/%y')
-
-                            today = datetime.now().date()
-                            lead_time = (required_date - today).days + 1
-                            item.lead_time_days = lead_time
+                        if row["Item Number"][-1] in filter_letters:
+                            item2 = (row["Item Number"].replace("P",""))
                         else:
-                            item.lead_time_days = 14
+                            item2 = item1 + "P"
 
-        
+                        item_1_on_hand_quantity = item_number_to_on_hand_quantity_map.get(item1)
+                        item_2_on_hand_quantity = item_number_to_on_hand_quantity_map.get(item2)
+
+                        if item_1_on_hand_quantity is None or item_2_on_hand_quantity is None:
+                            item.lead_time_days = None
+                        elif int(item_1_on_hand_quantity) > 0 or int(item_2_on_hand_quantity) > 0:
+                            item.lead_time_days = None
+                        else:
+                            item_1_expected_date = item_number_to_required_date_map.get(item1)
+                            item_2_expected_date = item_number_to_required_date_map.get(item2)
+                            if item_1_expected_date is None or item_2_expected_date is None:
+                                item.lead_time_days = 14
+                            else:
+                                item_1_date = datetime.strptime(item_1_expected_date, "%m/%d/%y")
+                                item_2_date = datetime.strptime(item_2_expected_date, "%m/%d/%y")
+                                item.lead_time_days = abs((item_1_date - item_2_date).days) + 1
 
 
-                    
-
-
-                    # item.lead_time_days = row["Description Line 1"]
-
-
-        #             item.unit_of_measure = row["Unit of Measure"]
+                    item.unit_of_measure = row["Unit of Measure"] if hasattr(PackUnit, row["Unit of Measure"]) else altamira_to_pepper[row["Unit of Measure"]]
+                    # item.unit_of_measure = row["Unit of Measure"]
         #             item.metadata = ItemMetadataConfiguration().__dict__
 
     
                     items.append(item)
-
                     jsonl_file.write(json.dumps(item.__dict__) + '\n')
 
 
